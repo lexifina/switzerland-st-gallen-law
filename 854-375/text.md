@@ -1,0 +1,32 @@
+Vereinbarung
+zwischen den Kantonen Schwyz und St.Gallen über die Angelfischerei im schwyzerisch-st.gallischen Gebiet des Zürich-Obersees
+vom 01.01.2004
+Die Regierungen der Kantone Schwyz und St.Gallen
+erlassen in Anwendung von § 7 der Übereinkunft zwischen den Kantonen Zürich, Schwyz, Glarus und St.Gallen über die Fischerei im Zürichsee, Linthkanal und Walensee vom 10. September 1993
+folgende Vereinbarung:
+Ziff. 1
+1
+Für die Angelfischerei im schwyzerisch-st.gallischen Gebiet des Zürich-Obersees wird ein Einheitspatent erteilt.
+Ziff. 2
+1
+Das Patent wird Personen mit Wohnsitz in einem der Vereinbarungskantone erteilt.
+Ziff. 3
+1
+Das Patent wird vom Wohnsitzkanton ausgestellt.
+2
+Es berechtigt zur Seefischerei mit allen erlaubten Gerätschaften gemäss den Bestimmungen des Wohnsitzkantons und zusätzlich auf dem Seeteil des Zürich-Obersees des anderen Vereinbarungskantons.
+Ziff. 4
+1
+Die Patentgebühr beträgt Fr. 300.–.
+2
+Sie kann im Einvernehmen der Vereinbarungskantone geändert werden.
+3
+Sie wird vom Wohnsitzkanton erhoben. Auf eine Verrechnung zwischen den Vereinbarungskantonen wird verzichtet.
+Ziff. 5
+1
+Diese Vereinbarung kann unter Einhaltung einer einjährigen Kündigungsfrist jeweils auf Ende eines Kalenderjahrs gekündigt werden.
+Ziff. 6
+1
+Diese Vereinbarung tritt auf 1. Januar 2004 in Kraft.
+nGS 38–113
+In Vollzug ab 1. Januar 2004.
