@@ -11,3 +11,4 @@ c) die juristische Person sich ernstlich um die Bezahlung der geschuldeten Nachs
 4 Zeigt ein ausgeschiedenes Organmitglied oder ein ausgeschiedener Vertreter der juristischen Person diese wegen Steuerhinterziehung erstmals an und ist die Steuerhinterziehung keiner Steuerbehörde bekannt, wird von einer Strafverfolgung der juristischen Person, der aktuellen und ausgeschiedenen Mitglieder der Organe sowie der aktuellen und ausgeschiedenen Vertreter abgesehen. Deren Solidarhaftung entfällt.
 5 Bei jeder weiteren Selbstanzeige wird die Busse unter den Voraussetzungen nach Abs. 1 dieser Bestimmung auf einen Fünftel der hinterzogenen Steuer ermässigt.
 6 Nach Beendigung der Steuerpflicht einer juristischen Person in der Schweiz kann keine Selbstanzeige mehr eingereicht werden.
+(4.1.2.) II. Strafverfahren
