@@ -1,0 +1,61 @@
+Interkantonale Vereinbarung
+zwischen den Kantonen Appenzell A.Rh. und St.Gallen über die fischereiliche Zuständigkeit in den Grenzgewässern
+vom 10.02.1981
+Die Regierungen der Kantone Appenzell A.Rh. und St.Gallen
+erlassen
+in Anwendung der Bundesgesetzgebung über die Fischerei
+als Vereinbarung:
+Art. 1
+1
+Der fischereilichen Zuständigkeit des Kantons Appenzell A.Rh. unterstehen:
+a)
+der Rötelbach oberhalb der Einmündung des Tellbachs;
+b)
+der Tüfenbach oberhalb der Brücke Tüfi;
+c)
+der Wissenbach oberhalb der Einmündung in die Glatt einschliesslich der Weiheranlagen in Tal und Eggstatt, mit Ausnahme des Weihers südlich von Egg;
+d)
+die Glatt oberhalb der Einmündung des Wissenbachs;
+e)
+der Wattbach.
+Art. 2
+1
+Der fischereilichen Zuständigkeit des Kantons St.Gallen unterstehen:
+a)
+der Necker oberhalb Ruezenecker;
+b)
+die Sitter von der Einmündung des Wattbachs bis zur Einmündung der Urnäsch;
+c)
+die Goldach von der Einmündung des Landgrabens bis zur Einmündung des Bernhardsbachs, mit Ausnahme des Weihers oberhalb des Bernhardsbachs in Unterwilen;
+d)
+der Landgraben.
+Art. 3
+1
+Zuflüsse gehören zu den Grenzgewässern, soweit diese Vereinbarung nichts anderes bestimmt.
+Art. 4
+1
+Die Grenzgewässer unterstehen der Gesetzgebung des zuständigen Kantons in bezug auf:
+a)
+die Fischereiberechtigung;
+b)
+den Fischfang und die Fanggeräte;
+c)
+die fischereiliche Bewirtschaftung;
+d)
+die Aufsicht;
+e)
+die Strafen und die Massnahmen.
+Art. 5
+1
+Die Vereinbarung kann unter Einhaltung einer einjährigen Kündigungsfrist auf Ende jedes sechsten Kalenderjahres gekündigt werden, erstmals auf den 31. Dezember 1986.
+Art. 6
+1
+Die Übereinkunft zwischen den Kantonen St.Gallen und Appenzell A.Rh. betreffend die Fischerei in den Grenzgewässern vom 30. März 1921 wird aufgehoben.
+Art. 7
+1
+Die Vereinbarung wird nach Unterzeichnung durch die beiden Kantone und nach Genehmigung des Bundesrates angewendet.
+nGS 16–33
+SR 923.
+Vom Bundesrat genehmigt am 11. März 1981, in Vollzug ab 12. März 1981.
+Für den Kanton St.Gallen siehe FV, sGS 854.11.
+bGS 4, 427; nGS 10–50 (sGS 854.374).
