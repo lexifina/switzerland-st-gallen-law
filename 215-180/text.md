@@ -1,0 +1,63 @@
+Vereinbarung
+über die Zusammenarbeit zwischen dem Kanton St.Gallen und dem Fürstentum Liechtenstein in der akademischen Berufsberatung
+vom 30.06.1981
+Der Regierungsrat des Kantons St.Gallen und die Regierung des Fürstentums Liechtenstein
+vereinbaren:
+(1.) I. Zusammenarbeit
+Art. 1
+1
+Der Kanton St.Gallen unterstützt die Berufsberatungsstelle des Fürstentums Liechtenstein.
+2
+Er stellt die studien- und berufskundlichen Dokumentationsmappen zur Verfügung.
+3
+Er lässt die liechtensteinischen Mittelschüler an Orientierungsversammlungen teilnehmen.
+(2.) II. Dokumentationsmappen
+Art. 2
+1
+Die akademische Berufsberatung des Kantons St.Gallen stellt der Berufsberatungsstelle des Fürstentums Liechtenstein je zwei Exemplare der vorhandenen und der neu erarbeiteten Dokumentationsmappen über akademische sowie nach Absprache über nichtakademische Ausbildungsgänge und Berufe zur Verfügung.
+Art. 3
+1
+Nachträge werden der Berufsberatungsstelle des Fürstentums Liechtenstein vierteljährlich zur selbständigen Einordnung zugestellt.
+Art. 4
+1
+Die akademische Berufsberatung des Kantons St.Gallen überarbeitet die Dokumentationsmappen in der Regel nach drei Jahren.
+2
+Die überarbeiteten Dokumentationsmappen werden der Berufsberatungsstelle des Fürstentums Liechtenstein in zwei Exemplaren zur Verfügung gestellt.
+Art. 5
+1
+Die Erarbeitung neuer Dokumentationsmappen erfolgt nach den Bedürfnissen der akademischen Berufsberatung des Kantons St.Gallen.
+(3.) III. Orientierungsveranstaltungen
+Art. 6
+1
+Die liechtensteinischen Mittelschüler der zwei obersten Klassen sind berechtigt, die von der akademischen Berufsberatung des Kantons St.Gallen durchgeführten studien- und berufskundlichen Orientierungsveranstaltungen zu besuchen.
+2
+Die akademische Berufsberatung des Kantons St.Gallen stellt der Berufsberatungsstelle des Fürstentums Liechtenstein rechtzeitig eine genügende Anzahl Programmhefte zu.
+(4.) IV. Finanzielles
+Art. 7
+1
+Das Fürstentum Liechtenstein vergütet dem Kanton St.Gallen die Leistungen nach Art. 2 bis 6 dieser Vereinbarung jährlich mit Fr. 5500.–.
+2
+Die Höhe der Entschädigung wird jährlich der Teuerung angepasst, erstmals für das Jahr 1982. Für die Anpassung ist der Vorjahresdurchschnitt des Landesindexes der Konsumentenpreise massgebend.
+Art. 8
+1
+Der Kanton St.Gallen ist berechtigt, bei sachlicher Begründung eine Erhöhung der Entschädigung zu verlangen.
+2
+Die Erhöhung ist dem Fürstentum Liechtenstein bis zum 31. Mai für das folgende Kalenderjahr mitzuteilen.
+Art. 9
+1
+Der Kanton St.Gallen stellt dem Fürstentum Liechtenstein jährlich Rechnung.
+2
+Zahlungstermin ist der 30. Juni.
+(5.) V. Schlussbestimmungen
+Art. 10
+1
+Diese Vereinbarung kann unter Einhaltung einer Frist von sechs Monaten auf das Ende eines Kalenderjahres gekündigt werden.
+Art. 11
+1
+Diese Vereinbarung wird ab 1. Juli 1981 angewendet.
+nGS 16–55
+In Vollzug ab 1. Juli 1981.
+Art. 38MSG, sGS 215.1.
+Art. 38MSG, sGS 215.1.
+Art. 38MSG, sGS 215.1.
+Art. 38MSG, sGS 215.1.
