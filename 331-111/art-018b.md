@@ -1,0 +1,4 @@
+# Art. 18b Zugehörigkeit zu einer Prämienregion
+1 Die Zugehörigkeit zur Prämienregion richtet sich nach dem zivilrechtlichen Wohnsitz am 1. Januar des Bezugsjahres. Für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich ist der Arbeitsort am 1. Januar des Bezugsjahres massgebend.
+2 Für Personen, die nach dem 1. Januar aus dem Ausland in den Kanton ziehen, richtet sich die Zugehörigkeit zur Prämienregion nach dem zivilrechtlichen Wohnsitz im Zeitpunkt der Antragstellung.
+3 Für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich und mit einer Erwerbsaufnahme während des Kalenderjahres richtet sich die Zugehörigkeit zur Prämienregion nach dem Arbeitsort im Zeitpunkt der Antragstellung.
