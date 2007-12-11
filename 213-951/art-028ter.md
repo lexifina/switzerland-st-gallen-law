@@ -1,0 +1,6 @@
+# Art. 28ter ater) Kosten der behinderungsspezifischen Unterstützung und Beratung beim Besuch der Volksschule (Art. 11 Bst. b Ziff. 2 des G),
+1 Entschädigt werden die Kosten behinderungsspezifischer Unterstützung und Beratung beim Besuch der Volksschule nach Art. 19 Abs. 3 des Bundesgesetzes über die Invalidenversicherung vom 19. Juni 1959 in der Fassung vor dem Bundesgesetz über die Schaffung und die Änderung von Erlassen zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) vom 6. Oktober 2006 und Art. 105 Abs. 3 der Verordnung über die Invalidenversicherung vom 17. Januar 1961 in der Fassung vor dem Bundesgesetz über die Schaffung und die Änderung von Erlassen zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) vom 6. Oktober 2006 für:
+a) blinde und sehbehinderte Kinder und Jugendliche mit einer korrigierten Sehschärfe unter 0,3 bei beidäugigem Sehen;
+b) gehörlose und hörbehinderte Kinder und Jugendliche mit einem mittleren Hörverlust des besseren Ohrs im Reintonaudiogramm von wenigstens 30 dB oder einem äquivalenten Hörverlust im Sprachaudiogramm;
+c) schwer körperbehinderte Kinder und Jugendliche.
+2 Vorbehalten sind Therapien und Stützunterricht nach der Gesetzgebung über die Volksschule.
