@@ -1,0 +1,3 @@
+# Art. 47bis c) Verwaltungsgericht
+1 …
+2 Das Verwaltungsgericht entscheidet ferner in Streitigkeiten zwischen Staat und Beliehenen aus dem Verleihungsverhältnis.
