@@ -1,0 +1,26 @@
+Kantonsratsbeschluss
+über die Genehmigung des Regierungsbeschlusses über den Beitritt des Kantons St.Gallen zur Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten
+vom 16.11.2010
+Der Kantonsrat des Kantons St.Gallen
+hat von der Botschaft der Regierung vom 2. März 2010 Kenntnis genommen und
+erlässt
+gestützt auf Art. 65 Bst. c der Kantonsverfassung vom 10. Juni 2001
+als Beschluss:
+Ziff. 1
+1
+Der Regierungsbeschluss vom 2. März 2010 über den Beitritt des Kantons St.Gallen zur Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten wird genehmigt.
+Ziff. 2
+1
+Dieser Erlass untersteht dem fakultativen Referendum.
+Die Regierung des Kantons St.Gallen
+erklärt:
+Der Kantonsratsbeschluss über die Genehmigung des RRB über den Beitritt des Kantons St.Gallen zur Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten wurde am 16. November 2010 rechtsgültig, nachdem innerhalb der Referendumsfrist vom 5. Oktober bis 15. November 2010 kein Begehren um Anordnung einer Volksabstimmung gestellt worden ist.
+Der Erlass wird ab 16. November 2010 angewendet.
+nGS 46–19
+ABl 2010, 941 ff.
+sGS 111.1.
+Vom Kantonsrat erlassen am 22. September 2010; nach unbenützter Referendumsfrist rechtsgültig geworden am 16. November 2010; in Vollzug ab 16. November 2010.
+sGS 451.60.
+Art. 49 Abs. 1 Bst. b KV, sGS 111.1.
+Siehe ABl 2010, 3669 f.
+Referendumsvorlage siehe ABl 2010, 3194.
