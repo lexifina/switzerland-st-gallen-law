@@ -1,0 +1,6 @@
+## (1.) I. Allgemeine Bestimmungen
+## (2.) II. Zuständigkeiten
+### (2.1.) 1. Organe des Zentrums
+### (2.2.) 2. Regierung und Kantonsrat
+## (3.) III. Betrieb
+## (4.) IV. Schlussbestimmungen
