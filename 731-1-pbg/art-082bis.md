@@ -1,0 +1,4 @@
+# Art. 82bis c) vereinfachtes Verfahren
+1 Bauten und Anlagen werden im vereinfachten Verfahren bewilligt, wenn sie keine oder nur die Interessen weniger Einspracheberechtigter berühren.
+2 Im vereinfachten Verfahren entfallen die Pflicht zur Visierung und das Auflageverfahren. Vom Baugesuch wird den Einspracheberechtigten mit eingeschriebenem Brief unter Eröffnung einer Einsprachefrist von vierzehn Tagen Kenntnis gegeben, wenn diese dem Baugesuch nicht unterschriftlich zugestimmt haben. Baugesuch und Unterlagen stehen den Einspracheberechtigten während der Einsprachefrist zur Einsicht offen.
+3 Das vereinfachte Verfahren findet keine Anwendung bei zonenfremden Bauten und Anlagen ausserhalb der Bauzonen; ausgenommen sind geringfügige Änderungen von Bauvorhaben, für die das Anzeige- und Auflageverfahren durchgeführt wurde oder die bewilligt sind.

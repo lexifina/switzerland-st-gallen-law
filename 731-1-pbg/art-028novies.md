@@ -1,0 +1,2 @@
+# Art. 28novies Erstwohnungsanteil
+1 Im Interesse eines genügenden Wohnungsangebotes für die ansässige Bevölkerung kann die politische Gemeinde im Baureglement, in Zonen-, Überbauungs- oder Gestaltungsplänen Vorschriften erlassen, wonach in Kern-, Wohn- und Wohn-Gewerbe-Zonen oder Teilen davon ein Mindestanteil an Erstwohnungen erstellt oder erhalten wird. Als Erstwohnungen gelten Wohnungen, die von natürlichen Personen mit zivilrechtlichem Wohnsitz in der betreffenden politischen Gemeinde bewohnt werden.
