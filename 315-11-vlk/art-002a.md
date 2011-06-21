@@ -1,0 +1,3 @@
+# Art. 2a Selbstkontrolle der öffentlichen Wasserversorgungen
+1 Die öffentlichen Wasserversorgungen lassen im Rahmen der Selbstkontrolle nach Art. 23 des eidgenössischen Lebensmittelgesetzes vom 9. Oktober 1992 und Art. 49 ff. der eidgenössischen Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005 Analysen durch Laboratorien durchführen, die nach der europäischen Norm EN ISO/ IEC 17025 über die allgemeinen Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien oder nach einer vergleichbaren Norm bewertet und zugelassen sind.
+2 Sie stellen dem Amt für Verbraucherschutz und Veterinärwesen die Untersuchungsergebnisse bis zum Ende jedes Kalenderjahres zu.
