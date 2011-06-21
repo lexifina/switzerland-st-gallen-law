@@ -1,0 +1,3 @@
+# Art. 16bis Anforderungen an Fachpersonen
+1 Die Anforderungen an Personen, die Anlagen mit wassergefährdenden Flüssigkeiten erstellen, ändern, kontrollieren, befüllen, warten, entleeren und ausser Betrieb setzen, richten sich nach den Richtlinien und Normen des Verbandes für Gewässerschutz und Tanksicherheit (CITEC Suisse).
+2 Die nach bisherigem Recht erworbenen Fachausweise betreffend Erstellung, Änderung, Kontrolle, Befüllung, Wartung, Entleerung und Ausserbetriebnahme von Anlagen mit wassergefährdenden Flüssigkeiten behalten ihre Gültigkeit. Inhaberinnen und Inhaber der Fachausweise besuchen die vom Verband für Gewässerschutz und Tanksicherheit (CITEC Suisse) vorgeschriebenen Weiterbildungskurse.
