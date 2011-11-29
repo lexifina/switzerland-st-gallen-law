@@ -1,0 +1,4 @@
+# Art. 12bis bbis) emissionsarme Fahrzeuge
+1 Für leichte Motorwagen, die bei ihrer ersten Inverkehrsetzung im Kanton St.Gallen nach den bundesrechtlichen Vorschriften der besten ökologischen Kategorie zugehören, wird die einfache Steuer im Jahr der ersten Inverkehrsetzung und in den drei folgenden Jahren erlassen. Ausgenommen sind Dieselfahrzeuge ohne wirkungsvollen Partikelfilter.
+2 Für Fahrzeuge, die in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden und innerhalb der Frist nach Abs. 1 dieser Bestimmung im Kanton St.Gallen besteuert werden, wird die einfache Steuer ab Beginn der Steuerpflicht im Kanton St.Gallen für den Rest dieser Frist erlassen.
+3 Die Regierung regelt die Umsetzung durch Verordnung. Sie regelt Ausnahmen für Fahrzeuge, die einen bestimmten Emissionsgrenzwert überschreiten.
