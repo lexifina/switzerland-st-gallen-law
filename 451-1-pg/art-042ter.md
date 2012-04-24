@@ -1,0 +1,4 @@
+# Art. 42ter e) Überprüfung und Entschädigung
+1 Die in Gewahrsam genommene Person kann durch die Anklagekammer überprüfen lassen, ob die Anordnung des Gewahrsams rechtmässig und ob dieser aufgrund der Sachlage zum Zeitpunkt der Überprüfung begründet war.
+2 Ungesetzlicher oder unverschuldeter Freiheitsentzug gibt ihr Anspruch auf Schadenersatz und Genugtuung gegenüber dem Staat. Wer den Entschädigungsfall vorsätzlich oder grobfahrlässig verursacht hat, kann gegenüber dem Staat ersatzpflichtig erklärt werden. Vorbehalten bleiben Ansprüche nach dem Verantwortlichkeitsgesetz.
+3 Das Gesuch um Überprüfung oder Entschädigung ist der Anklagekammer innert eines Jahres nach Entlassung aus dem Gewahrsam schriftlich und begründet einzureichen. Die Anklagekammer gibt dem zuständigen Departement Gelegenheit zur Stellungnahme. Sie kann eigene Erhebungen durchführen. Sie entscheidet aufgrund der Akten abschliessend.
