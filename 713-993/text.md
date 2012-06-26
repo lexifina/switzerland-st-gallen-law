@@ -1,0 +1,23 @@
+Kantonsratsbeschluss
+über die Beteiligung an der Finanzierung technischer Verbesserungen der Schweizerischen Südostbahn AG für das Jahr 2012
+vom 26.06.2012
+Der Kantonsrat des Kantons St.Gallen
+hat von der Botschaft der Regierung vom 25. Oktober 2011 Kenntnis genommen und
+erlässt
+in Anwendung von Art. 1 Bst. a und Art. 6 des Einführungsgesetzes zum eidgenössischen Eisenbahngesetz vom 7. Februar 1971, Art. 56 und 57 des eidgenössischen Eisenbahngesetzes (EBG) vom 20. Dezember 1957 sowie Art. 13 ff. der eidgenössischen Verordnung über die Konzessionierung und Finanzierung der Eisenbahninfrastruktur (KFEV) vom 4. November 2009
+als Beschluss:
+Ziff. 1
+1
+Der Kanton St.Gallen gewährt der Schweizerischen Südostbahn AG einen Investitionsbeitrag von Fr. 8 713 074.– zur Finanzierung technischer Verbesserungen für das Jahr 2012.
+2
+Der Sonderkredit wird der Investitionsrechnung belastet und ab dem Jahr 2013 innert fünf Jahren abgeschrieben.
+Ziff. 2
+1
+Dieser Erlass untersteht dem fakultativen Finanzreferendum.
+nGS 47–103
+ABl 2011, 3112 ff.
+sGS 713.1.
+SR 742.101.
+SR 742.120.
+Vom Kantonsrat erlassen am 24. April 2012; nach unbenützter Referendumsfrist rechtsgültig geworden am 26. Juni 2012; in Vollzug ab 26. Juni 2012.
+Art. 7bis Abs. 1 Bst. b RIG, sGS 125.1.
