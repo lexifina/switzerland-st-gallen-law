@@ -1,0 +1,3 @@
+# Art. 48ter 3. Leichter Fall und bedingter Vollzug
+1 In leichten Fällen kann von Disziplinarmassnahmen abgesehen werden, wenn der Disziplinarfehler auf andere Weise erledigt werden kann. Das Disziplinarverfahren wird schriftlich eingestellt und allfällige Vereinbarungen mit dem Insassen werden festgehalten.
+2 Wenn das bisherige Verhalten des Insassen es rechtfertigt, kann der Vollzug der Disziplinarmassnahme unter Ansetzung einer Probezeit bis zu drei Monaten bedingt aufgeschoben werden. Begeht der Insasse während der Probezeit einen neuen Disziplinarfehler oder hält er besondere Vereinbarungen nicht ein, wird die Disziplinarmassnahme vollzogen.

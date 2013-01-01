@@ -1,0 +1,4 @@
+# Art. 18bis Verlegung
+1 Wird der Gefangene in ein anderes Gefängnis verlegt, werden dem neuen Gefängnis das Einweisungsdokument sowie allfällige weitere Akten mit Informationen zur Person und zum Verlauf des bisherigen Gefängnisaufenthalts weitergeleitet. Zusätzlich werden Unterlagen zum Gesundheitszustand des Gefangenen vom behandelnden Arzt in einem verschlossenen Umschlag zuhanden des neu zuständigen Gefängnisarztes weitergeleitet, sofern der Gefangene dies nicht ausdrücklich ablehnt.
+2 Benötigt der Gefangene Medikamente, wird dem Transport ein Vorrat der vom Gefängnisarzt verschriebenen Medikamente für wenigstens drei Tage mit den nötigen Instruktionen mitgegeben.
+3 Die mit dem Transport beauftragten Personen werden informiert, sofern während des Transports medizinische Massnahmen notwendig werden könnten oder Medikamente abzugeben sind.
