@@ -1,0 +1,2 @@
+# Art. 316bis Rückwirkung neuen Rechts
+1 Art. 48 Abs. 1 Bst. c und Art. 50 Abs. 4 dieses Erlasses in der Fassung gemäss II. Nachtrag vom 24. September 2006 sowie Art. 52 dieses Erlasses in der Fassung gemäss Verordnung über die Änderung des Steuergesetzes vom 22. November 2005 werden rückwirkend auf alle rechtskräftigen und noch nicht rechtskräftigen Veranlagungen der Steuerperioden 2001 bis 2006 angewendet. Die Anwendung bisherigen Rechts bleibt vorbehalten, wenn dieses für den Steuerpflichtigen eine tiefere Steuerbelastung zur Folge hat.
