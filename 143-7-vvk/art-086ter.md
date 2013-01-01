@@ -1,0 +1,3 @@
+# Art. 86ter Vorbezug von Vorsorgemitteln
+1 Werden Vorsorgemittel zur Finanzierung selbstgenutzten Wohneigentums oder zur Übertragung an die Vorsorge des geschiedenen Ehegatten vorbezogen, wird das erreichte Ruhegehalt im Verhältnis des Vorbezugs zur Austrittsleistung im Zeitpunkt des Vorbezugs herabgesetzt.
+2 Der Staat beteiligt sich nicht am Einkauf zur Wiedererhöhung des Ruhegehalts. Der Einkauf wird aufgrund des Alters beim Eintritt in die Ruhegehaltsordnung und unter Berücksichtigung der Versicherungsjahre nach Anhang 6a oder Anhang 6b dieser Verordnung berechnet. Art. 30bis dieser Verordnung wird sachgemäss angewendet.
