@@ -1,0 +1,3 @@
+# Art. 117sexies 3. Zuständigkeit
+1 Wenn Massnahmen zum Offenhalten von Skiabfahrts- und Skiübungsgelände durch mehrere Gemeinden ergriffen werden müssen und diese sich innert angemessener Frist nicht einigen, kann die Regierung entsprechende Verfügungen treffen.
+2 …
