@@ -1,0 +1,2 @@
+# Art. 32bis Bemessung des Einkommens bei selbständiger Erwerbstätigkeit (Art. 67 Abs. 2 StG)
+1 Die ordentlichen Gewinne werden nur bei unterjähriger Steuerpflicht und zugleich unterjährigem Geschäftsjahr für die Satzbestimmung aufgrund der Dauer der Steuerpflicht auf zwölf Monate umgerechnet. Übersteigt jedoch die Dauer des unterjährigen Geschäftsjahres die Dauer der Steuerpflicht, werden die ordentlichen Gewinne für die Satzbestimmung nur auf Grund der Dauer des Geschäftsjahres auf zwölf Monate umgerechnet.

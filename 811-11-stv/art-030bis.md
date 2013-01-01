@@ -1,0 +1,3 @@
+# Art. 30bis Verkehrs- und Ertragswert (Art. 57 Abs. 1 und Art. 58 StG)
+1 Der Verkehrswert und der Ertragswert nach Art. 57 Abs. 1 und Art. 58 des Steuergesetzes vom 9. April 1998 werden im Verfahren nach dem Gesetz über die Durchführung der Grundstückschätzung vom 9. November 2000 ermittelt. Sie werden ohne Neubeurteilung der Schätzung im Sinn des Gesetzes über die Durchführung der Grundstückschätzung vom 9. November 2000 an die Entwicklung der Marktpreise angepasst, wenn sich diese im Vergleich zum Stand der letzten Wertermittlung um mehr als 10 Prozent verändert haben.
+2 Bei Neu-, Um- und Anbauten, für die noch keine Schätzung nach Abs. 1 dieser Bestimmung besteht, erfolgt ein Zuschlag zur geltenden Schätzung in der Höhe von 80 Prozent der Neu-, Um- und Anbaukosten.
