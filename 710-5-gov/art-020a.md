@@ -1,0 +1,10 @@
+# Art. 20a Beitragspflicht a) Grundsatz
+1 Die Betreiberin oder der Betreiber einer verkehrsrelevanten Einrichtung beteiligt sich an der Abgeltung der ungedeckten Kosten des öffentlichen Verkehrs, wenn die Einrichtung:
+a) allein oder zusammen mit benachbarten verkehrsrelevanten Einrichtungen überwiegende Ursache dafür ist, dass der Standort durch den öffentlichen Verkehr neu erschlossen oder die bestehende Erschliessung ausgebaut wurde oder werden muss;
+b) einen erheblichen Einfluss darauf hat, dass die bestehende Erschliessung des Standorts durch den öffentlichen Verkehr aufrecht erhalten werden muss;
+c) in der Nähe einer nach Abs. 1 Bst. a oder b dieser Bestimmung beitragspflichtigen Einrichtung liegt und einen Nutzen aus der Erschliessung durch den öffentlichen Verkehr zieht.
+2 Verkehrsrelevante Einrichtungen sind Bauten und Anlagen, die:
+a) ganzjährig oder saisonal betrieben werden;
+b) während der Betriebsdauer nach Abs. 2 Bst. a dieser Bestimmung an wenigstens drei Tagen je Woche geöffnet sind;
+c) wenigstens 50 öffentlich zugängliche Parkplätze haben.
+3 Kann die verkehrsrelevante Einrichtung nicht einer bestimmten Betreiberin oder einem bestimmten Betreiber zugeordnet werden, ist die Grundeigentümerin oder der Grundeigentümer beitragspflichtig.

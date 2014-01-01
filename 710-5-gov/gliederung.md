@@ -6,6 +6,7 @@
 ### (3.2.) 2. Beiträge der politischen Gemeinden
 ### (3.3.) 3. Rückerstattung von Beiträgen
 ### (3.4.) 4. Zusatzleistungen und Tariferleichterungen
+### (3.5.) 5. Beiträge aus verkehrsrelevanten Einrichtungen
 ## (4.) IV. Organisation
 ### (4.1.) 1. Behörden
 ### (4.2.) 2. Verkehrskommission
