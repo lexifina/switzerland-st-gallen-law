@@ -1,4 +1,5 @@
-# Verordnung über den Schutz vor dem Passivrauchen
+# Verordnung über den Schutz vor Passivrauchen
+(VSP)
 vom 16.02.2010
 Die Regierung des Kantons St.Gallen
 erlässt
