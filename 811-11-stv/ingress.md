@@ -1,4 +1,5 @@
 # Steuerverordnung
+(StV)
 vom 20.10.1998
 Die Regierung des Kantons St.Gallen
 erlässt
