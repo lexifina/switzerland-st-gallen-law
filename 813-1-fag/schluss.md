@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1 - 5: Abrechnungsformeln und Kürzungsregeln
+Anhang 1 - 5: Abrechnungsformeln und Kürzungsregeln
