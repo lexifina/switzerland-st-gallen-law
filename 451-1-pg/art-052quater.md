@@ -1,0 +1,2 @@
+# Art. 52quater Verdeckte Fahndung a) Begriff
+1 Verdeckte Fahndung nach diesem Gesetz hat zum Zweck, mit Angehörigen der Kantonspolizei und der Stadtpolizei St.Gallen, deren wahre Identität und Funktion nicht erkennbar ist, im Rahmen kurzer Einsätze ohne Verwendung einer Legende nach Art. 52septies dieses Gesetzes die Vorbereitung von Verbrechen und Vergehen. zu erkennen oder solche Straftaten zu verhindern.

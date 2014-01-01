@@ -9,4 +9,5 @@
 ### (3.3.) 3. Polizeikräfte der Gemeinde
 ### (3.4.) 4. Polizeiliche Befugnisse
 ## (4.) IV. Besondere Vorschriften
-## (V.) Schlussbestimmungen
+## (4bis.) IVbis. Observation, verdeckte Fahndung und verdeckte Ermittlung
+## (V.) V. Schlussbestimmungen
