@@ -11,4 +11,4 @@ g) Geschäfte und Einkaufszentren;
 h) gastgewerbliche Betriebe, einschliesslich Bars, Diskotheken, Kantinen und Besenbeizen;
 i) Messe- und Ausstellungsräume;
 j) Festzelte und Festwirtschaften.
-3 Rauchzimmer sind unbediente Räume, die von anderen Räumen des Gebäudes und deren Belüftung und Entlüftung getrennt und als solche gekennzeichnet sind sowie keinem anderen Zweck dienen.
+3 …
