@@ -1,0 +1,7 @@
+# Art. 28a Zweisprachige Maturität
+1 Das Amt für Mittelschulen setzt nach Rücksprache mit der Rektorin oder dem Rektor die Anzahl Klassen für die zweisprachige Maturität fest. Bestehen mehr Bewerberinnen und Bewerber die Prüfung, als an der Schule Plätze zur Verfügung stehen, werden die Klassen nach dem Prüfungsresultat gebildet.
+2 Wer nicht berücksichtigt werden kann, kann:
+a) in eine Klasse für eine zweisprachige Maturität an einer anderen Schule eintreten, wenn das Prüfungsresultat es zulässt;
+b) in eine Klasse mit dem gewählten Schwerpunktfach, die nicht zur zweisprachigen Maturität führt, eintreten;
+c) das Schwerpunktfach wechseln.
+3 Vorbehalten bleibt die Zuteilung an eine andere Schule zur Bildung ausgeglichener Klassen oder zur angemessenen räumlichen Auslastung.
