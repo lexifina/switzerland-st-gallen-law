@@ -1,4 +1,5 @@
 # Stipendienverordnung
+(StipV)
 vom 13.05.2003
 Die Regierung des Kantons St.Gallen
 erlässt
