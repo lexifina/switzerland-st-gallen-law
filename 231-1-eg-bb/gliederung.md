@@ -7,6 +7,7 @@
 ### (2.5.) 5. Abschlussprüfung
 ## (3.) III. Höhere Berufsbildung und Weiterbildung
 ## (4.) IV. Berufs-, Studien- und Laufbahnberatung
+### (4.1) IVbis. Gestalterischer Vorkurs für Erwachsene
 ## (5.) V. Finanzierung
 ### (5.1.) 1. Kostenbeteiligung
 ### (5.2.) 2. Gebühren
