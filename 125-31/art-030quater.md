@@ -1,6 +1,6 @@
 # Art. 30quater Zuständigkeiten
-1 Das Departement des Innern nimmt die Aufgaben wahr, welche die Gesetzgebung über Wahlen und Abstimmungen sowie Referendum und Initiative den Gemeinden zuweist.
-2 Dem Departement des Innern obliegt insbesondere:
+1 Die Staatskanzlei nimmt die Aufgaben wahr, welche die Gesetzgebung über Wahlen und Abstimmungen sowie Referendum und Initiative den Gemeinden zuweist.
+2 Der Staatskanzlei obliegt insbesondere:
 a) die Führung des Stimmregisters der Auslandschweizer;
 b) die Zustellung des Stimmmaterials;
 c) die Ermittlung der Abstimmungsergebnisse. Diese werden nicht nach Gemeinden aufgeschlüsselt;
