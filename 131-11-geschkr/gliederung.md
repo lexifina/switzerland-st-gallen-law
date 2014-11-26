@@ -33,7 +33,7 @@
 #### (3.3.3.) c) Abstimmung ohne elektronische Abstimmungsanlage
 ### (3.4.) 4. Wahlen
 ### (3.5.) 5. Protokoll und Aufzeichnung
-## (4.) Entschädigungen
+## (4.) IV. Entschädigungen
 ### (4.1.) 1. Mitglieder des Kantonsrates
 ### (4.2.) 2. Präsidenten und Berichterstatter
 ### (4.3.) 3. Fraktionen
