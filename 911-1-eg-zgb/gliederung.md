@@ -7,6 +7,7 @@
 ## (2.) B. BESONDERER TEIL
 ### (2.1.) I. Personenrecht
 ### (2.2.) II. Familienrecht
+### (2.2bis.) IIbis. Erwachsenenschutz
 ### (2.3.) III. Erbrecht
 ### (2.4.) IV. Sachenrecht
 ### (2.5.) V. Obligationenrecht
