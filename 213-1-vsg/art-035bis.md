@@ -1,4 +1,7 @@
-# Art. 35bis Kleinklassen a) Einführungsklasse
-1 Der Schulrat kann teilweise schulreife Kinder mit Zustimmung der Eltern und nach Anhören der Lehrperson der Einführungsklasse zuweisen.
-2 In Ausnahmefällen kann er die Zuweisung ohne Zustimmung der Eltern vornehmen. Er holt das Gutachten einer Fachstelle ein.
-3 Lehrperson, Schulpsychologin oder Schulpsychologe und Schulärztin oder Schularzt sind antragsberechtigt.
+# Art. 35bis b) Regelschule oder Sonderschule
+1 Schülerinnen und Schüler mit besonderem Bildungsbedarf besuchen die Regelklasse oder Kleinklasse, wenn:
+a) sie vom Unterricht profitieren und das soziale Gefüge der Klasse wahrnehmen können;
+b) der Besuch für die Erfüllung des Erziehungs- und Bildungsauftrags geeignet, erforderlich und zumutbar ist;
+c) nicht überwiegende Interessen der Klasse oder des Umfeldes entgegen stehen.
+2 Der Kanton sorgt für behinderungsspezifische Beratung und Unterstützung.
+3 Sind die Voraussetzungen nach Abs. 1 dieser Bestimmung nicht erfüllt, besuchen Schülerinnen und Schüler mit besonderem Bildungsbedarf eine Sonderschule.

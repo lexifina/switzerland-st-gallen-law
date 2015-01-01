@@ -3,7 +3,8 @@
 ## (3.) III. Schule
 ### (3.1.) 1. Grundlagen
 ### (3.2.) 2. Schulorganisation und Unterricht
-### (3.3.) 3. Fördernde Massnahmen
+### (3.3.) 3. Sonderpädagogische Massnahmen a) Allgemeine Bestimmungen
+### (3.4) b) Kantonales Sonderpädagogik-Konzept
 ### (3.4.) 4. Schulische Dienste
 ## (4.) IV. Schülerinnen und Schüler
 ### (4.1.) 1. Schulpflicht
