@@ -9,6 +9,7 @@
 #### (2.2.1.) I. Steuerpflicht
 #### (2.2.2.) II. Gewinnsteuer
 #### (2.2.3.) III. Kapitalsteuer
+#### (2.2.3bis.) IIIbis. Mindeststeuer
 #### (2.2.4.) IV. Minimalsteuer auf Grundstücken
 #### (2.2.5.) V. Zeitliche Bemessung
 ### (2.3.) Dritter Abschnitt: Quellensteuern für natürliche und juristische Personen
