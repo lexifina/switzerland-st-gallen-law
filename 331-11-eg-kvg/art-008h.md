@@ -4,4 +4,4 @@
 3 Der Sozialversicherungsanstalt werden die nach Abs. 1 und 2 dieser Bestimmung ermittelten Nettokosten vergütet:
 a) durch den Kanton zu 77 Prozent;
 b) durch die politischen Gemeinden zu 23 Prozent.
-4 Der Anteil der politischen Gemeinden wird nach der mittleren Bevölkerung gemäss der letzten Erhebung der kantonalen Statistikstelle berechnet.
+4 Der Anteil der politischen Gemeinden wird nach der Bevölkerung gemäss der letzten Erhebung der kantonalen Statistikstelle berechnet.
