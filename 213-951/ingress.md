@@ -1,7 +1,5 @@
-# Vollzugsverordnung zum Gesetz über die Staatsbeiträge an private Sonderschulen (Sonderschulverordnung)
-vom 06.12.1977
-Landammann und Regierungsrat des Kantons St.Gallen
-erlassen
-in Ausführung von Art. 28 des Gesetzes über Kantonsbeiträge an private Sonderschulen vom 31. März 1977
-in Ergänzung zum Bundesgesetz über die Invalidenversicherung vom 19. Juni 1959, zum Bundesgesetz über Bundesbeiträge an Strafvollzugs- und Erziehungsanstalten vom 6. Oktober 1966 und zu den eidgenössischen Vollzugsvorschriften dazu
+# Verordnung über die Anerkennung und Finanzierung von privaten Sonderschulen (Sonderschulverordnung)
+vom 03.02.2015
+Die Regierung des Kantons St.Gallen erlässt
+in Ausführung von Art. 39ter des Volksschulgesetzes vom 13. Januar 1983
 als Verordnung:
