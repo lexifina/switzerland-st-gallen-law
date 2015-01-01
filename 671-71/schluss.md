@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Zuschlag Anhang 2: Biologische Qualität Anhang 3: Vernetzung
+Anhang 1: Beiträge im Sömmerungsgebiet Anhang 2: Beiträge für ökologisch wertvolle Waldränder Anhang 3: Beiträge für Pufferstreifen Anhang 4: Beiträge für weitere ökologische Leistungen Anhang 5: Ertragsausfall
