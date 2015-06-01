@@ -1,5 +1,5 @@
 # Art. 20bis Wahlvorschläge a) Gültigkeit
-1 Für Behörden, deren Mitglieder im Majorzwahlverfahren gewählt werden, können Wahlvorschläge eingereicht werden. Dem Wahlvorschlag für den Kreisgerichtspräsidenten sind die Belege für die Erfüllung der Wahlvoraussetzungen nach Art. 26 des Gerichtsgesetzes beizulegen.
+1 Für Behörden, deren Mitglieder im Majorzwahlverfahren gewählt werden, können Wahlvorschläge eingereicht werden. Den Wahlvorschlägen für den Kreisgerichtspräsidenten sowie die hauptamtlichen und teilamtlichen Richter des Kreisgerichtes sind die Belege für die Erfüllung der Wahlvoraussetzungen nach Art. 26 des Gerichtsgesetzes beizulegen.
 2 Wahlvorschläge sind gültig, wenn sie:
 a) innert der angesetzten Frist der zuständigen Stelle der Gemeinde, bei kantonalen Wahlen dem zuständigen Departement eingereicht werden;
 b) unterzeichnet sind:
