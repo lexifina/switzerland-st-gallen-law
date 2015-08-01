@@ -1,9 +1,8 @@
-# Gesetz über den Lohn der Volksschullehrer
+# Gesetz über den Lohn der Volksschul-Lehrpersonen
 (LLG)
-vom 30.11.1971
-Der Grosse Rat des Kantons St.Gallen
-hat von der Botschaft des Regierungsrates vom 24. März 1971 Kenntnis genommen und
+vom 16.09.2014
+Der Kantonsrat des Kantons St.Gallen
+hat von der Botschaft der Regierung vom 17. Dezember 2013 Kenntnis genommen und
 erlässt
-in Anwendung von Art. 6 und 8 der Kantonsverfassung vom 16. November 1890
-in Ausführung von Art. 56 des Erziehungsgesetzes vom 7. April 1952
+in Ausführung von Art. 49 Abs. 2 der Kantonsverfassung vom 10. Juni 2001 und Art. 75 des Volksschulgesetzes vom 13. Januar 1983
 als Gesetz:
