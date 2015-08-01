@@ -18,7 +18,8 @@
 #### (5.3.2.) b) Personalrechtliche Massnahmen
 #### (5.3.2bis.) bbis.) Streiterledigung
 #### (5.3.3.) c) Mitverantwortung
-### (5.4.) 4. Fachlehrpersonen für Therapien und Stützunterricht
+### (5.4.) 4. Fachlehrpersonen für sonderpädagogische Massnahmen
+### (5.5) 5. Einsatz der Lehrpersonen
 ## (6.) VI. Eltern
 ## (7.) VII. Behörden und Schulleitungen
 ### (7.1.) 1. Regierung
