@@ -1,5 +1,5 @@
 # Art. 57b Organisation
-1 Im regionalen Stützpunkt werden insbesondere Chemiewehr, Ölwehr und Strahlenwehr zusammengefasst.
+1 Im regionalen Stützpunkt werden insbesondere Chemiewehr und Ölwehr zusammengefasst.
 2 Die Organisation richtet sich nach:
 a) Grösse und Besiedelung der Region;
 b) der kantonalen Risikobeurteilung für die Region;

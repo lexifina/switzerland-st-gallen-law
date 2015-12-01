@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Stützpunktregionen Anhang 2: Tarif Feuerwehrabgabe
+Anhang 1: Ausser Kraft Anhang 2: Tarif Feuerwehrabgabe
