@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Lohntabelle für das Jahr 2015
+Anhang -: Lohntabelle für das Jahr 2016
