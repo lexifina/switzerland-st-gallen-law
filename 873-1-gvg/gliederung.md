@@ -1,4 +1,4 @@
-## (1.) I. Gebäudeversicherungsanstalt
+## (1.) I. Organisation
 ## (2.) II. Versicherungspflicht
 ## (3.) III. Prämien
 ## (4.) IV. Versicherungsleistungen

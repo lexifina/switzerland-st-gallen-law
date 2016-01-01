@@ -1,3 +1,3 @@
-# Art. 36bis Selbstbehalt
-1 Der Versicherte trägt in jedem Versicherungsfall einen Selbstbehalt. Neben einem Pflichtselbstbehalt kann er je nach Versicherungswert zusätzlich individuelle Selbstbehalte wählen.
-2 Die Regierung legt durch Verordnung Höhe und Ausgestaltung der Selbstbehalte fest. Sie nimmt auf Versicherungswert und Schadengefahr gerichtete Abstufungen vor.
+# Art. 36bis Selbstbehalte a) Pflicht- oder Wahlselbstbehalt
+1 Der Versicherte trägt in jedem Versicherungsfall einen Selbstbehalt. Er kann anstelle des Pflichtselbstbehalts einen individuellen, vom Versicherungswert abhängigen Selbstbehalt wählen.
+2 …

@@ -1,3 +1,3 @@
 # Art. 35bis c) bleibender Minderwert
-1 Bei Gebäudeschäden, die nicht behoben werden können oder deren Behebungskosten in einem offensichtlichen Missverhältnis zur Beschädigung oder zum Versicherungswert des Gebäudes stehen, wird anstelle des Schadens nach Versicherungswert ein angemessener bleibender Minderwert ermittelt.
+1 Bei Gebäudeschäden, deren Wiederherstellungskosten in einem offensichtlichen Missverhältnis zur Beschädigung stehen, wird anstelle des Schadens nach Versicherungswert ein angemessener bleibender Minderwert ermittelt, wenn die beschädigten Gebäudeteile weiterhin gebrauchstauglich sind.
 2 Die Regierung regelt die Einzelheiten durch Verordnung.
