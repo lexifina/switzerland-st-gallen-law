@@ -14,7 +14,7 @@
 ## (3.) III. Finanzhaushalt
 ### (3.1.) 1. Haushaltsgrundsätze und Rechnungsführung
 ### (3.2.) 2. Ausgaben
-### (3.3.) 3. Voranschlag und Staatsrechnung
+### (3.3.) 3. Budget und Staatsrechnung
 ### (3.4.) 4. Zuständigkeit
 ## (4.) IV. Staatsdienst
 ## (4bis.) IVbis. Organisationen mit kantonaler Beteiligung

@@ -1,6 +1,11 @@
 # Art. 16e b) Inhalt
-1 Der Aufgaben- und Finanzplan enthält:
-a) für die bestehenden Staatsaufgaben Ertrag und Aufwand der laufenden Rechnung sowie Einnahmen und Ausgaben der Investitionsrechnung;
+1 Der Aufgaben- und Finanzplan enthält die für die mittelfristige Planung und Steuerung der Staatstätigkeit notwendigen Informationen. Er berücksichtigt zudem:
+a) …
+abis) die Entwicklungen des Umfelds, die finanzpolitischen Rahmenbedingungen und die Perspektiven des Kantons;
+ater) die zur Erreichung der strategischen Ziele der Schwerpunktplanung relevanten Leistungsbereiche und eine Einschätzung ihrer Auswirkungen auf die Ressourcen;
 b) …
-c) die Gesetzesvorhaben und ihre Folgen für die laufende Rechnung und die Investitionsrechnung;
-d) die Vorhaben von grosser finanzieller Tragweite und ihre Folgen für die laufende Rechnung und die Investitionsrechnung.
+bbis) das priorisierte Investitionsprogramm;
+c) für die drei dem Budget folgenden Kalenderjahre:
+1. Ertrag und Aufwand der Erfolgsrechnung sowie Einnahmen und Ausgaben der Investitionsrechnung;
+2. Gesetzesvorhaben und ihre Folgen für die Erfolgsrechnung und die Investitionsrechnung.
+d) …
