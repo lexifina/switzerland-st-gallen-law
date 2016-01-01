@@ -1,5 +1,6 @@
 ## (1.) I. Organisation
 ## (2.) II. Versicherungspflicht
+## (2bis) IIbis. Verhütung von Elementarschäden
 ## (3.) III. Prämien
 ## (4.) IV. Versicherungsleistungen
 ### (4.1.) 1. Voraussetzungen

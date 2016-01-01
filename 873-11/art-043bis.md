@@ -1,0 +1,4 @@
+# Art. 43bis g) Ausscheidung der Prämienforderung bei Eigentümerwechsel
+1 Bei einem Eigentümerwechsel werden die zu viel bezahlten Prämien der bisherigen Eigentümerschaft bis zum letzten Tag des dem Grundbucheintrag vorangehenden Monats zurückerstattet. Die neue Eigentümerschaft schuldet die Prämie ab Beginn des Monats, in dem der Grundbucheintrag erfolgt. Nicht ausgeschieden werden Kleinbeträge.
+2 Wenn die bisherige und die neue Eigentümerschaft auf eine Ausscheidung der Prämienforderung ausdrücklich verzichten, kann die Gebäudeversicherung die Prämienrückerstattung und die Prämiennachforderung für das Jahr des Grundbucheintrags unterlassen.
+3 Im Fall einer Bauzeitversicherung wird die Prämie ungeachtet allfälliger früherer Handänderungen vollständig durch den zum Zeitpunkt der Abrechnung der Bauzeitversicherungsprämie im Grundbuch eingetragenen Eigentümer geschuldet.
