@@ -1,14 +1,10 @@
-## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Förderungsmassnahmen
-## (3.) III. Finanzierung
-### (3.1.) 1. Staatsbeitrag
-### (3.1bis.) 1bis Vorfinanzierung
-### (3.2.) 2. Beiträge der politischen Gemeinden
-### (3.3.) 3. Rückerstattung von Beiträgen
-### (3.4.) 4. Zusatzleistungen und Tariferleichterungen
-### (3.5.) 5. Beiträge aus verkehrsrelevanten Einrichtungen
-## (4.) IV. Organisation
-### (4.1.) 1. Behörden
-### (4.2.) 2. Verkehrskommission
-### (4.3.) 3. Verfahren
-## (5.) V. Schlussbestimmungen
+## (1.) I. Allgemeine Bestimmung
+## (2.) II. Planung
+## (3.) III. Beiträge
+### (3.1.) 1. Infrastruktur
+### (3.2.) 2. Betrieb
+### (3.3) 3. Weitere Beiträge
+## (4.) IV. Zuständigkeiten und Verfahren
+## (5.) V. Finanzierung und Auszahlung
+## (6.) VI. Beiträge aus verkehrsrelevanten Einrichtungen
+## (7.) VII. Schlussbestimmungen
