@@ -1,8 +1,8 @@
-# Art. 62bis Kosten für Dienstleistungen
-1 Für Dienstleistungen der Aufsichtsorgane und der Pächter zu Gunsten Dritter kann eine Entschädigung verlangt werden. Zu entschädigen sind insbesondere:
-a) Einsätze zur Schadenabwehr;
+# Art. 62bis Tätigkeiten zu Gunsten von Privaten
+1 Für Tätigkeiten der Aufsichtsorgane sowie der Pächterinnen und der Pächter zu Gunsten von Privaten kann eine Gebühr verlangt werden. Gebührenpflichtig sind insbesondere:
+a) die Unterstützung Privater bei Selbsthilfemassnahmen gegen jagdbare Tiere und die vom Bundesrat bezeichneten geschützten Tierarten;
 b) Einsätze bei Verkehrsunfällen mit Wild;
 c) Abschuss ausgerissener Tiere.
-2 Kostenpflichtig sind bei Verkehrsunfällen mit Wild der Fahrzeuglenker, in den übrigen Fällen in erster Linie der Auftraggeber, dann der Begünstigte und in letzter Linie der Verursacher.
-3 Die Entschädigung bestimmt sich nach dem Zeit- und Sachaufwand, bei Pächtern zu den Ansätzen, die für die Wildhut gelten.
-4 Im Streitfall verfügt die zuständige Stelle des Kantons über Kostenpflicht und -höhe.
+2 Gebührenpflichtig sind bei Verkehrsunfällen mit Wild die Fahrzeuglenkerin oder der Fahrzeuglenker, in den übrigen Fällen in erster Linie die Auftraggeberin oder der Auftraggeber, dann die Begünstigte oder der Begünstigte und in letzter Linie die Verursacherin oder der Verursacher.
+3 Die Gebühr bestimmt sich nach dem Zeit- und Sachaufwand, bei Pächterinnen und Pächtern zu den Ansätzen, die für die kantonale Wildhut gelten.
+4 Im Streitfall verfügt die zuständige Stelle des Kantons über Gebührenpflicht und -höhe.
