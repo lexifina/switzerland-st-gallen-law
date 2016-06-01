@@ -6,3 +6,6 @@ b) selbständige öffentlich-rechtliche Körperschaften oder interkantonale und 
 c) juristische Personen nach den Bestimmungen des Bundeszivilrechts, wenn der Kanton:
 1. einziger oder bedeutender Anteilseigner ist oder
 2. im obersten Leitungsorgan vertreten ist.
+3 Nicht als Organisationen mit kantonaler Beteiligung gelten unabhängig von ihrer Rechtsform:
+a) interkantonale Direktorenkonferenzen;
+b) internationale, interkantonale und kantonale Fachgremien wie Kommissionen, Ausschüsse und Arbeitsgruppen.
