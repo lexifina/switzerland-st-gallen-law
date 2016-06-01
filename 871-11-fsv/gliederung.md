@@ -23,5 +23,5 @@
 #### (3.1.10.) k) Verschiedene Vorschriften
 ### (3.2.) 2. Einsatzmittel und Einsatzgeräte
 ### (3.3.) 3. Wasserwehr
-## (3bis.) IIIbis.Feuerschutzabgabe
+## (3bis.) IIIbis. Feuerschutzabgabe
 ## (4.) IV. Schlussbestimmungen
