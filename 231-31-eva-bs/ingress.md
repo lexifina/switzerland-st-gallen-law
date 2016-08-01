@@ -1,7 +1,7 @@
 # Ergänzende Verordnung über das Arbeitsverhältnis der Lehrpersonen an Berufs- und Weiterbildungszentren
 (EVA-BS)
-vom 08.03.2005
-Die Regierung
+vom 24.03.2015
+Die Regierung des Kantons St.Gallen
 erlässt
-in Ausführung von Art. 95 Bst. g des Staatsverwaltungsgesetzes vom 16. Juni 1994
+in Ausführung von Art. 34 und 52 des Personalgesetzes vom 25. Januar 2011
 als Verordnung:

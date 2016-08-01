@@ -1,0 +1,3 @@
+# Art. 21a 2. Ausnahme bei fehlender pädagogischer Ausbildung
+1 Der Grundlohn von Lehrpersonen ohne pädagogische Ausbildung mit Personalführungsaufgaben in der Weiterbildung kann nach Art. 36 des Personalgesetzes vom 25. Januar 2011 festgelegt werden. Er übersteigt nicht den maximalen Grundlohn, den eine Lehrperson gemäss Laufbahn A nach dem Anhang zu diesem Erlass erhält.
+2 Die für die Anstellung zuständige Stelle des BWZ legt die Funktionszulage der Lehrpersonen ohne pädagogische Ausbildung mit Personalführungsaufgaben in der Weiterbildung fest. Die Funktionszulage beträgt höchstens 19'165 Franken.
