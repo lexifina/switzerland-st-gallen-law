@@ -12,5 +12,6 @@
 ### (5.1.) 1. Kostenbeteiligung
 ### (5.2.) 2. Gebühren
 ### (5.3.) 3. Kantonale Lehrwerkstätten
+### (5.4.) 4. Informatikmittelschule
 ## (6.) VI. Rechtspflege
 ## (7.) VII. Schlussbestimmungen
