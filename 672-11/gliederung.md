@@ -1,6 +1,7 @@
 ## (1.) I. Zuständigkeiten
 ### (1.1.) 1. Kanton
 ### (1.2.) 2. Politische Gemeinde St.Gallen
+### (1.3.) 3. Alle politischen Gemeinden
 ## (2.) II. Gefahrenabwehr
 ## (3.) III. Umweltverträglichkeitsprüfung
 ## (4.) IV. Massnahmen bei ausserordentlich hohen Luftbelastungen
