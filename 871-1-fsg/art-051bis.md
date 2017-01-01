@@ -4,4 +4,4 @@
 a) Gefahrenpotential;
 b) Kosten für die erforderlichen besonderen Massnahmen.
 3 Der Anspruch entsteht mit der Verminderung der Gefährdung.
-4 Die Regierung legt durch Verordnung Gefährdungsklassen und die für die Zuordnung massgebenden Bewertungskriterien fest. Die politische Gemeinde bestimmt die Gebührenansätze für die besonderen Massnahmen. Sie berücksichtigt das Einsatzgebiet. Die Gebührenordnung der politischen Gemeinde bedarf der Genehmigung des zuständigen Departementes.
+4 Die Regierung legt durch Verordnung Gefährdungsklassen und die für die Zuordnung massgebenden Bewertungskriterien fest. Die politische Gemeinde bestimmt die Gebührenansätze für die besonderen Massnahmen. Sie berücksichtigt das Einsatzgebiet.

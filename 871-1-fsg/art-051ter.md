@@ -4,4 +4,4 @@
 a) Abschreibungskosten;
 b) Nachrüstungs- und Unterhaltskosten;
 c) Kosten für die Weiterbildung.
-3 Die politische Gemeinde bestimmt die Gebührenansätze. Sie berücksichtigt den Erneuerungs-, den Modernisierungs- und den Weiterbildungsbedarf sowie das Gefahrenpotential und das Einsatzgebiet. Die Gebührenordnung bedarf der Genehmigung des zuständigen Departementes.
+3 Die politische Gemeinde bestimmt die Gebührenansätze. Sie berücksichtigt den Erneuerungs-, den Modernisierungs- und den Weiterbildungsbedarf sowie das Gefahrenpotential und das Einsatzgebiet.
