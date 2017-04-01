@@ -1,6 +1,6 @@
 # Art. 13bis Durchführung
 1 Bei Lottoveranstaltungen dürfen der Verkauf von Einsatzkarten, die Ermittlung der Gewinner und die Ausrichtung der Gewinne nur während der Veranstaltung erfolgen.
-2 Tombolalose dürfen mit Zustimmung der politischen Gemeinde in der Regel während höchstens eines Monats vor dem Unterhaltungsanlass verkauft werden. Die politische Gemeinde kann ausnahmsweise mit Zustimmung des Finanzdepartementes einen weitergehenden Vorverkauf für Veranstaltungen mit einer Verlosungssumme über Fr. 20 000.– bewilligen.
+2 Tombolalose dürfen mit Zustimmung der politischen Gemeinde in der Regel während höchstens eines Monats vor dem Unterhaltungsanlass verkauft werden. Die politische Gemeinde kann ausnahmsweise mit Zustimmung des Volkswirtschaftsdepartementes einen weitergehenden Vorverkauf für Veranstaltungen mit einer Verlosungssumme über Fr. 20 000.– bewilligen.
 3 Lose und Lottoeinsatzkarten dürfen nur bis zum Betrag der bewilligten Verlosungs- oder Plansumme vorbereitet und verkauft werden. Auf Losen und Lottoeinsatzkarten sind anzugeben:
 a) Namen der Veranstalter;
 b) Datum und Bezeichnung der Veranstaltung;
