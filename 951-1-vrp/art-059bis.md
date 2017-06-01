@@ -15,4 +15,4 @@ b) gegen Entscheide über:
 2. ...;
 3. ...;
 4. …
-3 Der Präsident des Verwaltungsgerichtes beurteilt Beschwerden gegen Verfügungen des zuständigen Departementes über die unentgeltliche Rechtspflege und Rechtsverbeiständung sowie die notwendige und die amtliche Verteidigung.
+3 Ein hauptamtliches oder ein teilamtliches Mitglied des Verwaltungsgerichtes beurteilt Beschwerden gegen Verfügungen des zuständigen Departementes über die unentgeltliche Rechtspflege und Rechtsverbeiständung.

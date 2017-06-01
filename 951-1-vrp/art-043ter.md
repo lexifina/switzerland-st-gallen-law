@@ -1,2 +1,2 @@
 # Art. 43ter f) Sprungbeschwerde
-1 Wenn gegen den Rekursentscheid die Beschwerde an das Verwaltungsgericht offensteht, können Regierung und zuständiges Departement mit Zustimmung des Rekurrenten auf den Entscheid verzichten und die Streitsache als Beschwerde dem Verwaltungsgericht zur Erledigung überweisen.
+1 Der Rekurrent kann, sofern die weiteren Beteiligten zustimmen, auf den Rekursentscheid des zuständigen Departementes verzichten und verlangen, dass die Streitsache als Beschwerde dem Verwaltungsgericht überwiesen wird.
