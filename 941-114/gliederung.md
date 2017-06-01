@@ -8,4 +8,3 @@
 ### (3.1.) 1. Allgemeine Bestimmungen
 ### (3.2.) 2. Verfahren in der Abteilung
 ## (4.) IV. Schiedsgericht
-## (5.) V. Schlussbestimmungen
