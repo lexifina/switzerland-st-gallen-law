@@ -9,4 +9,5 @@
 #### (3.2.4.) d) Abteilung IV
 #### (3.2.5.) e) Abteilung V
 #### (3.2.6.) f) Abteilung VI
+#### (3.2.7.) g) Verfügungen und Entscheide gemäss Art. 41quater Bst. b VRP
 ## (4.) IV. Schlussbestimmung
