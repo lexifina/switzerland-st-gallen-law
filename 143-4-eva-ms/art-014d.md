@@ -13,6 +13,7 @@ b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente.
 2. Gymnasium;
 3. Fachmittelschule;
 4. Wirtschaftsmittelschule mit Schwerpunkt Sprachen;
-5. Wirtschaftsmittelschule mit Schwerpunkt Informatik.
+5. Wirtschaftsmittelschule mit Schwerpunkt Informatik;
+6. Informatikmittelschule.
 4 Die Rektorin oder der Rektor reicht dem Amt für Mittelschulen eine Aufstellung der besonderen Aufträge nach Abs. 1 und 2 dieser Bestimmung ein.
 5 Das Amt für Mittelschulen kann auf Gesuch der Rektorin oder des Rektors Funktionszulagen in Stellenprozente umrechnen und diese im Lehrauftrag anrechnen.
