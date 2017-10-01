@@ -36,7 +36,7 @@ e) Schüttungen in Seen.
 4 Das Amt für Umwelt entscheidet in seinem Zuständigkeitsbereich über den Beizug der politischen Gemeinde für die Kontrolle von Anlagen und über die Herausgabe amtlicher Akten an die Behörden der Strafrechtspflege.
 5 Das Amt für Umwelt nimmt stellvertretend für das Amt für Wasser und Energie Stellung bei:
 a) Vorhaben, die einer Bewilligung, Konzession oder Plangenehmigung des Bundes bedürfen;
-b) Vorprüfungen und Genehmigungen von Zonenplänen sowie Überbauungs- und Gestaltungsplänen im Bereich des Gewässerschutzes;
+b) Vorprüfungen und Genehmigungen von kommunalen Rahmennutzungs- und Sondernutzungsplänen im Bereich des Gewässerschutzes;
 c) Gesuchen um Vorprüfung von kommunalen Abwasserreglementen;
 d) Vorprüfungen und Genehmigungen von Vereinbarungen über Zweckverbände und Gemeindeverbände;
 e) Rechtsmittelverfahren im Bereich des Gewässerschutzes, einschliesslich aufsichtsrechtlicher Verfahren;
