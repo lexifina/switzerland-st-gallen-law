@@ -1,2 +1,0 @@
-# Art. 28septies Mischung von Nutzungsarten
-1 Zur Erhaltung oder Förderung von Orts- und Quartierzentren sowie von Wohngebieten kann die politische Gemeinde im Baureglement, in Zonen-, Überbauungs- oder Gestaltungsplänen für umgrenzte Gebiete oder einzelne Zonen Vorschriften über das zulässige Mass und die örtliche Verwirklichung der verschiedenen Nutzungsarten erlassen. Die Verwirklichung einer Nutzungsart kann durch Lockerung baupolizeilicher Vorschriften gefördert werden.

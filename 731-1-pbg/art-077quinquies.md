@@ -1,4 +1,0 @@
-# Art. 77quinquies d) besondere Vorschriften für zonenfremde Bauten und Anlagen ausserhalb der Bauzonen
-1 Bestand, Erneuerung, teilweise Änderung, massvolle Erweiterung und Wiederaufbau bestimmungsgemäss nutzbarer, nicht mehr zonenkonformer Bauten und Anlagen ausserhalb der Bauzonen richten sich nach Bundesrecht.
-2 Wohnbauten ausserhalb der Bauzonen, die rechtmässig erstellt wurden, durch Umnutzung zu landwirtschaftsfremdem Wohnen aber zonenwidrig geworden sind oder noch werden, sind hinsichtlich Erneuerung, teilweiser Änderung, massvoller Erweiterung und Wiederaufbau den Wohnbauten gleichgestellt, die durch nachträgliche Änderung von Erlassen oder Plänen zonenwidrig geworden sind.
-3 Die vollständige Zweckänderung von geschützten Bauten und Anlagen ausserhalb der Bauzonen ist im Rahmen des Bundesrechts zulässig.

@@ -1,2 +1,0 @@
-# Art. 77quater c) Besondere Vorschriften für zonenfremde Betriebe innerhalb der Bauzonen
-1 Eine angemessene Erweiterung bestehender zonenfremder Betriebe innerhalb der Bauzonen ist zulässig, wenn die Erweiterung mit den wichtigen Anliegen der Raumplanung vereinbar ist und die Vorschriften über den Umweltschutz sowie über die Nutzungsintensität und die Regelbauweise eingehalten sind. Vorbehalten bleiben Abweichungen von den Vorschriften über die Nutzungsintensität und Regelbauweise nach Art. 77bis Abs. 1 und 2 dieses Gesetzes.

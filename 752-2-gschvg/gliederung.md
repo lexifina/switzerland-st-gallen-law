@@ -6,7 +6,8 @@
 ### (2.4.) 4. Planerischer Schutz
 ### (2.5.) 5. Umgang mit wassergefährdenden Flüssigkeiten
 ### (2.6.) 6. Massnahmen am Gewässer
-## (3.) III. Sicherung angemessener Restwassermengen und Verhinderung anderer nachteiliger Einwirkungen auf Gewässer
+## (3.) III. Sicherung angemessener Restwassermengen
+### (3bis.) IIIbis. Verhinderung und Behebung anderer nachteiliger Einwirkungen auf Gewässer
 ## (4.) IV. Vollzug, Grundlagenbeschaffung und Information
 ### (4.1.) 1. Vollzug
 ### (4.2.) 2. Grundlagenbeschaffung

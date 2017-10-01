@@ -1,3 +1,0 @@
-# Art. 116bis 3. vorzeitiger Besitzesantritt
-1 Die zuständige Behörde oder die Umlegungskommission kann den vorzeitigen Besitzesantritt für das gesamte Beizugsgebiet oder Teile davon verfügen, wenn keine Verfahren nach Art. 116 Abs. 3 lit. a dieses Gesetzes hängig sind und der Stand der Verfahren nach Art. 116 Abs. 3 lit. b dieses Gesetzes es erlaubt.
-2 …
