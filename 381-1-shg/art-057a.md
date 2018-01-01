@@ -1,0 +1,3 @@
+# Art. 57a c) des IV. Nachtrags vom 25. April 2017
+1 Ortsgemeinden, die bis zum Vollzugsbeginn dieses Erlasses nach Art. 6 des Sozialhilfegesetzes vom 27. September 1998 in der Fassung vor Vollzugsbeginn dieses Erlasses persönliche Sozialhilfe für ihre Bürgerinnen und Bürger geleistet haben, bleiben zuständig, bis die Abtretung und Entschädigung für die Aufgabenübernahme mit der politischen Gemeinde vereinbart ist.
+2 Kommt innert zwei Jahren seit Vollzugsbeginn dieses Erlasses keine Vereinbarung über die Abtretung und Entschädigung nach Abs. 1 dieser Bestimmung zustande, entscheidet das zuständige Departement.

@@ -2,7 +2,7 @@
 1 Sonder- oder Minderlasten einer Gemeinde bei der Sozialhilfe sind abhängig von:
 a) dem Nettoaufwand der jeweiligen Gemeinde und dem Nettoaufwand im kantonalen Durchschnitt je Einwohnerin und Einwohner für:
 1. finanzielle Sozialhilfe;
-2. Mutterschaftsbeiträge;
+2. Elternschaftsbeiträge;
 3. Vorschüsse für Unterhaltsbeiträge;
 4. arbeitsmarktliche Projekte der Sozialhilfe von gemeinnützigen Trägern für die berufliche Wiedereingliederung schwer vermittelbarer Arbeitsloser;
 b) …
