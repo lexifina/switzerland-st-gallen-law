@@ -1,7 +1,6 @@
-# Kinderzulagenverordnung
-(KZV)
-vom 12.11.1996
-Landammann und Regierung des Kantons St.Gallen
-erlassen
-in Anwendung von Art. 49 des Kinderzulagengesetzes vom 11. April 1996 (im folgenden: KZG)
+# Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Familienzulagen
+vom 05.12.2017
+Die Regierung des Kantons St.Gallen
+erlässt
+in Ausführung des Einführungsgesetzes zur Bundesgesetzgebung über die Familienzulagen vom 27. Juni 2017
 als Verordnung:
