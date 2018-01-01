@@ -1,0 +1,3 @@
+# Art. 50quater c) Reglement der Standesorganisation und Delegation an die regionalen Organisationen
+1 Die Standesorganisation regelt die sich aus dem Notfalldienst ergebenden Rechte und Pflichten, insbesondere Dispensation und Ersatzabgabe, durch Reglement und bringt dieses dem zuständigen Departement zur Kenntnis.
+2 Die kantonale Standesorganisation kann die Regelung und den Vollzug des Notfalldienstes an ihre regionalen Organisationen delegieren. Die Entscheide der regionalen Standesorganisationen betreffend die Notfalldienstpflicht und die Leistung von Ersatzabgaben können im Streitfall der kantonalen Standesorganisation unterbreitet werden. Kommt keine Einigung zustande, erlässt die kantonale Standesorganisation eine Verfügung.
