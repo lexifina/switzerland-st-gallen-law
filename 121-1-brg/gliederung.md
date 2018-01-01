@@ -18,5 +18,6 @@
 ### (5.1.) 1. auf Begehren
 ### (5.2.) 2. von Amtes wegen
 ## (6.) VI. Feststellung des Kantons- und Gemeindebürgerrechts
+## (6bis.) VIbis. Weitere Ortsbürgerrechte
 ## (7.) VII. Mitwirkung im Bund
 ## (8.) VIII. Schlussbestimmungen
