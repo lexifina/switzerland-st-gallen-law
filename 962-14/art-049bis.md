@@ -1,4 +1,4 @@
-# Art. 49bis Disziplinarverfahren a) allgemein
-1 Richtet sich der Disziplinarfehler gegen den Inhaber der Disziplinargewalt, tritt er in den Ausstand.
-2 Der Inhaber der Disziplinargewalt sorgt für die Abklärung des Sachverhalts.
-3 Der Insasse erhält vor Erlass der Disziplinarverfügung Gelegenheit zur Stellungnahme.
+# Art. 49bis Verfahren a) allgemein
+1 Richtet sich der Disziplinarfehler oder die Gefährdung gegen die Person, der die Verfügungsgewalt zukommt, tritt diese in den Ausstand.
+2 Die Mitarbeiter melden Disziplinarfehler und Feststellungen, die auf eine Gefährdung der Sicherheit und Ordnung hinweisen.
+3 …

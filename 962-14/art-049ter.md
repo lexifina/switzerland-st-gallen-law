@@ -1,3 +1,3 @@
-# Art. 49ter b) Vorsorgliche Massnahmen und Sicherstellung
-1 Der Inhaber der Disziplinargewalt kann zur Sicherung der Ordnung in der Vollzugseinrichtung vorsorgliche Massnahmen treffen. Diese dauern längstens bis zum Erlass des Disziplinarentscheids.
-2 Gegenstände, die bei der Begehung von Disziplinarverstössen verwendet wurden, werden sichergestellt. Sie werden dem Eigentümer zurückgegeben, wenn keine Gefahr von ihnen ausgeht. Kann das Eigentum nicht festgestellt werden oder gefährden die Gegenstände die Sicherheit und Ordnung, werden sie verwertet oder vernichtet. Ein Verwertungserlös fliesst der Unterstützungskasse zu.
+# Art. 49ter b) vorsorgliche Massnahmen und Sicherstellung
+1 Der Inhaber der Disziplinargewalt oder die Leitungsperson, die Pikettdienst leistet, kann zur Sicherung der Ordnung in der Vollzugseinrichtung vorsorgliche Massnahmen treffen. Diese dauern längstens bis zum Erlass des Disziplinarentscheids.
+2 Gegenstände, von denen eine Gefahr ausgeht oder die bei der Begehung von Disziplinarverstössen verwendet wurden, werden sichergestellt. Sie werden dem Eigentümer nach Abschluss des Verfahrens zurückgegeben. Kann das Eigentum nicht festgestellt werden oder gefährden die Gegenstände die Sicherheit und Ordnung weiter, werden sie verwertet oder vernichtet. Ein Verwertungserlös fliesst der Unterstützungskasse zu.
