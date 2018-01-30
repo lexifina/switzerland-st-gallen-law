@@ -8,7 +8,7 @@
 ### (6.2.) 2. Freiheitsstrafen und freiheitsentziehende Massnahmen
 ### (6.3.) 3. Besondere Vollzugsformen
 ### (6.4.) …
-## (7.) VII. Jugenstrafrechtspflege
+## (7.) VII. Jugendstrafrechtspflege
 ## (8.) VIII. Strafregister
 ## (9.) IX. DNA-Profil-Informationssystem
 ## (10.) X. Schlussbestimmungen
