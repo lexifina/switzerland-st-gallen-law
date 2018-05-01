@@ -1,4 +1,4 @@
-# Vollzugsverordnung zum Gesetz über Mutterschaftsbeiträge
+# Vollzugsverordnung zum Gesetz über Elternschaftsbeiträge
 vom 28.05.1986
 Landammann und Regierung des Kantons St.Gallen
 erlassen
