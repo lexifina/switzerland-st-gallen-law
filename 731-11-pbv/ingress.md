@@ -1,4 +1,5 @@
 # Verordnung zum Planungs- und Baugesetz
+(PBV)
 vom 27.06.2017
 Die Regierung des Kantons St.Gallen
 erlässt
