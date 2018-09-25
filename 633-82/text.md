@@ -1,0 +1,56 @@
+Interkantonale Vereinbarung
+über die Birt-Strassen-Korporation
+vom 25.09.2018
+Die Regierung des Kantons St.Gallen und der Regierungsrat des Kantons Appenzell Ausserrhoden
+erlassen
+gestützt auf Art. 74 Abs. 2 Bst. a der Verfassung des Kantons St.Gallen vom 10. Juni 2001, Art. 18 Abs. 2 Bst. b des Staatsverwaltungsgesetzes des Kantons St.Gallen vom 16. Juni 1994 sowie Art. 87bis Abs. 2 der Verfassung des Kantons Appenzell Ausserrhoden vom 30. April 1995
+als Vereinbarung:
+Art. 1
+Zweck und Rechtsnatur
+1
+Die Birt-Strassen-Korporation bezweckt Unterhalt und Ausbau der Erschliessungsstrasse Birt auf dem Gebiet der Gemeinde Speicher und der Stadt St.Gallen.
+2
+Sie ist ein Bodenverbesserungsunternehmen nach Art. 703 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 und Art. 167 ff. des ausserrhodischen Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches vom 27. April 1969 mit Sitz in Speicher (im Folgenden Unternehmen).
+Art. 2
+Anwendbares Recht
+1
+Das Unternehmen untersteht dem Recht des Kantons Appenzell Ausserrhoden.
+Art. 3
+Statuten
+1
+Die Statuten des Unternehmens regeln:
+a)
+Mitgliedschaft;
+b)
+Kostenverteilung;
+c)
+Organisation;
+d)
+Rechte und Pflichten der Mitglieder.
+Art. 4
+Rechtspersönlichkeit
+1
+Das Unternehmen erhält die Rechtspersönlichkeit mit der Genehmigung der Statuten durch die zuständige Behörde des Kantons Appenzell Ausserrhoden.
+Art. 5
+Aufsicht
+1
+Die Aufsicht über das Unternehmen wird von den zuständigen Behörden des Kantons Appenzell Ausserrhoden im Einvernehmen mit den zuständigen Behörden des Kantons St.Gallen ausgeübt.
+Art. 6
+Streitigkeiten
+1
+Die zuständigen Behörden des Kantons Appenzell Ausserrhoden beurteilen öffentlich-rechtliche Streitigkeiten zwischen dem Unternehmen und Mitgliedern.
+2
+Streitigkeiten zwischen den Vereinbarungskantonen werden nach Art. 189 Abs. 1 Bst. c der Bundesverfassung vom 18. April 1999 dem Bundesgericht unterbreitet.
+Art. 7
+Vollzug
+1
+Diese Vereinbarung wird angewendet, sobald sie von den Vereinbarungskantonen unterzeichnet ist.
+nGS 2018-070
+sGS 111.1.
+sGS 140.1.
+bGS 111.1.
+Im Amtsblatt veröffentlicht am 15. Oktober 2018, ABl 2018, 3742 ff.; in Vollzug ab 25. September 2018.
+SR 210.
+bGS 211.1.
+Art. 170 Abs. 2 EG zum ZGB, bGS 211.1.
+SR 101.
