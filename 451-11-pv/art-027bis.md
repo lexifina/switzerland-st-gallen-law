@@ -1,3 +1,3 @@
 # Art. 27bis Rückgabe
-1 Scheidet der Polizeibeamte aus dem Polizeikorps aus, so hat er alle Uniformstücke und die ihm zur Verfügung gestellte Ausrüstung zurückzugeben.
+1 Scheidet eine uniformierte Mitarbeiterin oder ein uniformierter Mitarbeiter aus dem Dienst in der Kantonspolizei aus, so hat sie oder er Ausrüstung vollständig zurückzugeben.
 2 …

@@ -1,0 +1,2 @@
+# Art. 42bis Entschädigungen im Zusammenhang mit Sonderfunktionen sowie weitere Entschädigungen
+1 Die Kommandantin oder der Kommandant regelt Entschädigungen im Zusammenhang mit Sonderfunktionen sowie Entschädigungen für dienstliche Auslagen, für die keine besonderen Ansätze vorgesehen sind, in einer Dienstvorschrift. Diese Dienstvorschrift bedarf der Genehmigung des Sicherheits- und Justizdepartementes und des Finanzdepartementes.
