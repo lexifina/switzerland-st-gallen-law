@@ -30,6 +30,7 @@
 ### (5.3.) 3. Treueprämie
 ### (5.4.) 4. Abgangsentschädigung
 ### (5.5.) 5. Lohnnachgenuss
+## (5bis.) Vbis. Ablieferung finanzieller Abgeltungen
 ## (6.) VI. Spesenersatz
 ### (6.1.) 1. Grundsätze
 ### (6.2.) 2. Verpflegung
