@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Kontenrahmen
+Anhang Anhang: Anlagekategorien und Abschreibungsdauern

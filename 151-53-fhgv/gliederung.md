@@ -1,13 +1,14 @@
-## (1.) I. Allgemeine Bestimmungen
-### (1.1.) 1. Grundlagen
-### (1.2.) 2. Verwaltungsrechnung
-### (1.3.) 3. Bestandesrechnung
-### (1.4.) 4. Anhang zur Jahresrechnung
-## (2.) II. Führung des Haushalts
-### (2.1.) 1. Buchhaltung
-### (2.2.) 2. Vermögensverwaltung
-### (2.3.) 3. Internes Kontrollsystem
-### (2.4.) 4. Prüfung durch den Rat
-## (3.) III. Kontrolle durch die Geschäftsprüfungskommission
-## (4.) IV. Besondere Bestimmungen
-## (5.) V. Schlussbestimmungen
+## (1.) I. Allgemeines
+## (2.) II. Jahresrechnung
+### (2.1.) 1. Erfolgsrechnung
+### (2.2.) 2. Investitionsrechnung
+### (2.3.) 3. Bilanz
+### (2.4.) 4. Anhang
+## (3.) III. Budgetierung
+## (4.) IV. Kredite und Ausgaben
+## (5.) V. Finanzielle Führungsinstrumente
+### (5.1.) 1. Internes Kontrollsystem
+### (5.2.) 2. Kosten- und Leistungsrechnung
+## (6.) VI. Geschäftsprüfungskommission
+## (7.) VII. Weitere Bestimmungen
+## (8.) VIII. Schlussbestimmungen

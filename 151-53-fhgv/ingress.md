@@ -1,7 +1,7 @@
 # Verordnung über den Finanzhaushalt der Gemeinden
 (FHGV)
-vom 10.11.2009
+vom 21.03.2017
 Die Regierung des Kantons St.Gallen
 erlässt
-in Ausführung von Art. 106 Abs. 3 des Gemeindegesetzes vom 21. April 2009
+in Ausführung von Art. 124a des Gemeindegesetzes vom 21. April 2009
 als Verordnung:
