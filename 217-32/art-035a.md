@@ -1,0 +1,2 @@
+# Art. 35a Anfangslohn und Lohnüberprüfung
+1 Der Universitätsrat kann Ausführungsbestimmungen zur Bemessung des Anfangslohns bei Eintritt in die Universität oder bei Übernahme einer anderen Stelle an der Universität sowie zur periodischen Überprüfung der Lohneinstufungen erlassen. Er orientiert sich dabei an den entsprechenden Regelungen in der Personalverordnung vom 13. Dezember 2011 und den zugehörigen Weisungen.

@@ -1,0 +1,3 @@
+# Art. 34a Referenzfunktionen für das Verwaltungspersonal
+1 Angelehnt an die Referenzfunktionen nach Anhang 1 der Personalverordnung vom 13. Dezember 2011 erlässt der Universitätsrat die Referenzfunktionen des Verwaltungspersonals der Universität mit den zugehörigen Lohnbändern als Anhang zu den Ausführungsbestimmungen zum Personalreglement vom 2. November 2015. Spezifische Stellenprofile können in eigenen Referenzfunktionen erfasst werden, die in Anhang 1 der Personalverordnung vom 13. Dezember 2011 nicht enthalten sind.
+2 Die Organisationeinheit ordnet jede Stelle einer Referenzfunktion zu. Die Zuordnung erfordert die Zustimmung des Ressorts Personal. Besteht kein Einvernehmen, entscheidet die Rektorin oder der Rektor.
