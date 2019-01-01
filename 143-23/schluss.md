@@ -1,2 +1,2 @@
 Anhänge
-Anhang –: Lohntabelle für das Jahr 2018
+Anhang –: Lohntabelle für das Jahr 2019
