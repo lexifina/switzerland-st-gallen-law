@@ -1,6 +1,6 @@
-# Art. 1bis Zusammenarbeit a) gemeinsame Organisation
-1 Die politischen Gemeinden errichten im Interesse einer wirksamen Aufgabenerfüllung und eines wirtschaftlichen Mitteleinsatzes gemeinsame Zivilschutzorganisationen.
-2 Sie berücksichtigen dabei:
-a) die hauptsächlichen Gefahren und Risiken in der Region;
-b) den Bestand an Schutzdienstpflichtigen.
-3 Sie legen durch Vereinbarung Organisation, Aufgaben und Finanzierung der gemeinsamen Zivilschutzorganisation fest.
+# Art. 1bis Zusammenarbeit in regionalen Zivilschutzorganisationen
+1 Die politischen Gemeinden erfüllen ihre Aufgaben gemeinsam in höchstens acht regionalen Zivilschutzorganisationen.
+2 Die Regierung legt das Gebiet der regionalen Zivilschutzorganisationen und deren Bestände unter Berücksichtigung der wahrscheinlichsten Gefährdungen in Absprache mit den politischen Gemeinden fest.
+a) …
+b) …
+3 Die politischen Gemeinden legen durch Vereinbarung Organisation, Aufgaben und Finanzierung der jeweiligen regionalen Zivilschutzorganisation fest.
