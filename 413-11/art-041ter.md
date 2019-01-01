@@ -1,4 +1,4 @@
-# Art. 41ter Politische Gemeinde
-1 Die politische Gemeinde:
+# Art. 41ter Regionale Zivilschutzorganisation
+1 Die regionale Zivilschutzorganisation:
 a) unterhält das Material;
 b) stellt die Betriebsbereitschaft des Materials sicher.
