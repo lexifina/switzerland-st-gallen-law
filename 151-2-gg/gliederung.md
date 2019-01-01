@@ -21,9 +21,13 @@
 ### (5.3.) 3. Amtspflichten
 ### (5.4.) 4. Geschäftsordnung
 ## (6.) VI. Finanzhaushalt
-### (6.1.) 1. Rechnungswesen
+### (6.1.) 1. Allgemeines
+### (6.1bis.) 1bis. Jahresrechnung
+### (6.1ter.) 1ter. Budgetierung
+### (1quater) 1quater. Kredite und Ausgaben
 ### (6.2.) 2. Finanzielle Führungsinstrumente
 ### (6.3.) 3. Wirkungsorientierte Verwaltungsführung
+### (6.3ter.) 4. Ergänzende Vorschriften
 ## (7.) VII. Aufgabenerfüllung durch öffentlich-rechtliche Unternehmen und Private
 ### (7.1.) 1. Allgemeines
 ### (7.2.) 2. Unselbständige öffentlich-rechtliche Unternehmen

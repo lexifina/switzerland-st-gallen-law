@@ -1,12 +1,27 @@
-## (1.) I. Geltungsbereich
-## (2.) II. Vorschriften für alle Urnenabstimmungen
-### (2.1.) 1. Organisation im allgemeinen
-### (2.2.) 2. Anordnung und Vorbereitung der Abstimmungen
-### (2.3.) 3. Durchführung der Abstimmung
-### (2.4.) 4. Ermittlung des Abstimmungsergebnisses
-### (2.5.) 5. Bekanntgabe des Abstimmungsergebnisses
-### (2.6.) 6. Elektronische Datenverarbeitung
-## (3.) III. Proporzwahlen
-## (4.) IV. Wahl der eidgenössischen Geschworenen
-## (5.) V. Strafbestimmungen
-## (6.) VI. Schlussbestimmungen
+## (1.) I. Allgemeine Bestimmungen
+## (2.) II. Wahl- und Abstimmungsorganisation
+### (2.1.) 1. Zuständigkeit
+### (2.2.) 2. Stimmregister
+### (2.3.) 3. Behörden
+## (3.) III. Vorbereitung und Vorverfahren
+### (3.1.) 1. Bekanntmachung
+### (3.2.) 2. Majorzwahlen
+### (3.3.) 3. Proporzwahlen
+#### (3.3.1.) a) Wahlkreise
+#### (3.3.2) b) Wahlvorschläge
+## (4.) IV. Stimmabgabe
+### (4.1.) 1. Stimmmaterial
+### (4.2.) 2. Ausfüllen der Stimmzettel
+### (4.3.) 3. Briefliche Stimmabgabe
+### (4.4.) 4. Elektronische Stimmabgabe
+### (4.5.) 5. Persönliche Stimmabgabe
+#### (4.5.1.) a) an der Urne
+#### (4.5.2.) b) vorzeitige Stimmabgabe
+## (5.) V. Ergebnisermittlung
+### (5.1.) 1. Allgemeine Bestimmungen
+### (5.2.) 2. Abstimmungen
+### (5.3.) 3. Majorzwahlen
+### (5.4.) 4. Proporzwahlen
+## (6.) VI. Abschluss
+## (7.) VII. Verfahren bei Vakanzen
+## (8.) VIII. Übergangsbestimmungen
