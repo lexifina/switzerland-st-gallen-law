@@ -1,6 +1,5 @@
-## (1.) I. Allgemeines
+## (1.) I. Allgemeine Bestimmungen
 ## (2.) II. Zulassung zur Prüfung
-## (3.) III. Organisation
-## (4.) IV. Prüfung
-## (5.) V. Fähigkeitsausweis
-## (6.) VI. Schlussbestimmungen
+## (3.) III. Prüfung
+## (4.) IV. Organisation
+## (5.) V. Schlussbestimmungen
