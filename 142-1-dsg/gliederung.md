@@ -1,6 +1,7 @@
 ## (1.) I. Allgemeine Bestimmungen
 ## (2.) II. Bearbeitung von Personendaten
 ## (3.) III. Bekanntgabe von Personendaten
+## (3bis.) IIIbis. Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen
 ## (4.) IV. Rechte der betroffenen Person
 ## (5.) V. Fachstelle für Datenschutz
 ### (5.1.) 1. Organisation

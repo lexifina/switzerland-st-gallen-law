@@ -1,5 +1,5 @@
 # Art. 59bis b) gegen Verwaltungsbehörden
-1 Sofern kein ordentliches Rechtsmittel an eine Verwaltungsbehörde oder eine verwaltungsunabhängige Kommission des Bundes oder an das Bundesverwaltungsgericht offensteht, beurteilt das Verwaltungsgericht Beschwerden gegen Verfügungen und Entscheide der Regierung, der Departemente, der Rekursstellen Volksschule, des Erziehungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen, des Verwaltungsrates der Gebäudeversicherung und des Gesundheitsrates.
+1 Sofern kein ordentliches Rechtsmittel an eine Verwaltungsbehörde oder eine verwaltungsunabhängige Kommission des Bundes oder an das Bundesverwaltungsgericht offensteht, beurteilt das Verwaltungsgericht Beschwerden gegen Verfügungen und Entscheide der Regierung, der Departemente, der Rekursstellen Volksschule, des Erziehungsrates, des Universitätsrates, des Rates der Pädagogischen Hochschule St.Gallen, des Verwaltungsrates der Gebäudeversicherung, des Kooperationsgremiums der E-Government St.Gallen (eGovSG) und des Gesundheitsrates sowie der obersten Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften.
 2 Die Beschwerde ist unzulässig:
 a) in folgenden Angelegenheiten:
 1. Staatsaufsicht, wenn nicht Verletzung der Autonomie geltend gemacht wird;
@@ -10,8 +10,8 @@ a) in folgenden Angelegenheiten:
 5. ...;
 6. ...;
 7. ...;
-b) gegen Entscheide über:
-1. Beschwerden gegen die konfessionellen Oberbehörden in rein kirchlichen Angelegenheiten nach Art. 109 Abs. 2 der Kantonsverfassung;
+b) gegen Entscheide:
+1. der obersten Behörden der als öffentlich-rechtliche Körperschaft anerkannten Religionsgemeinschaften in religiösen Angelegenheiten nach Art. 109 Abs. 2 der Kantonsverfassung vom 10. Juni 2001 in Verbindung mit Art. 2 Abs. 1 des Gesetzes über die öffentlich-rechtlich anerkannten Religionsgemeinschaften vom 14. August 2018;
 2. ...;
 3. ...;
 4. …
