@@ -1,0 +1,2 @@
+# Art. 31a Einschränkung der Wahl des Bandbreitenmodells
+1 Für eine Mitarbeiterin oder einen Mitarbeiter gilt für ein bestimmtes Kalenderjahr die Variante 4 des Bandbreitenmodells nach Art. 29 Abs. 1 dieses Erlasses, wenn das Zeitguthaben aus nicht bezogenen Ferien, Kompensationstagen aus dem Bandbreitenmodell und geleisteter Überzeit am Ende des Vorjahrs mehr als 15 Arbeitstage, bei Teilzeitbeschäftigung mehr als die entsprechende Anzahl Arbeitstage im Verhältnis zum Beschäftigungsgrad, beträgt.
