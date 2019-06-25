@@ -1,0 +1,6 @@
+# Art. 8a Datenschutz-Folgenabschätzung
+1 Das öffentliche Organ erstellt vorgängig eine Datenschutz-Folgenabschätzung, wenn eine Bearbeitung ein hohes Risiko für die Grundrechte der betroffenen Person mit sich bringen kann. Sind mehrere ähnliche Bearbeitungsvorgänge geplant, kann eine gemeinsame Abschätzung erstellt werden.
+2 Das hohe Risiko ergibt sich, insbesondere bei Verwendung neuer Technologien, aus der Art, dem Umfang, den Umständen und dem Zweck der Bearbeitung. Es liegt namentlich vor:
+a) bei der umfangreichen Bearbeitung von besonders schützenswerten Personendaten oder von Persönlichkeitsprofilen;
+b) bei einem Profiling.
+3 Die Datenschutz-Folgenabschätzung enthält eine Beschreibung der geplanten Bearbeitung, eine Bewertung der Risiken für die Grundrechte der betroffenen Person sowie die Massnahmen zum Schutz der Grundrechte.
