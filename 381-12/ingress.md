@@ -1,6 +1,6 @@
-# Verordnung über die Aufnahme von Asylsuchenden
-vom 03.12.2002
+# Asylverordnung
+vom 02.07.2019
 Die Regierung des Kantons St.Gallen
 erlässt
-gestützt auf Art. 28 des eidgenössischen Asylgesetzes vom 26. Juni 1998 sowie Art. 3 Abs. 1 und Art. 59 Abs. 1 des Sozialhilfegesetzes vom 27. September 1998
+in Ausführung des eidgenössischen Asylgesetzes vom 26. Juni 1998 sowie von Art. 3 und 6ter des Sozialhilfegesetzes vom 27. September 1998
 als Verordnung:
