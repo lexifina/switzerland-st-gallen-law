@@ -1,5 +1,6 @@
 # Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen
-vom 12.06.2003
+vom 25.10.2018
 Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK),
-gestützt auf die Art. 2, 4 und 6 der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 (Diplomvereinbarung) und auf das EDK-Statut vom 2. März 1995,
+gestützt auf die Art. 2, 4 und 6 der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 (Diplomanerkennungsvereinbarung) und auf das EDK-Statut vom 3. März 2005,
 beschliesst:
+(1.) I. Allgemeine Bestimmungen
