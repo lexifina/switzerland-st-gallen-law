@@ -1,3 +1,3 @@
 # Art. 66bis Ausfertigung
-1 Der Sekretär legt den Protokollentwurf dem Kommissionspräsidenten innert Wochenfrist zur Genehmigung und Unterzeichnung vor.
-2 Er lässt das genehmigte und unterzeichnete Protokoll verzugslos zustellen.
+1 Die Geschäftsführerin oder der Geschäftsführer legt den Protokollentwurf dem Kommissionspräsidenten innert Wochenfrist zur Genehmigung vor.
+2 Die Geschäftsführerin oder der Geschäftsführer lässt das genehmigte Protokoll verzugslos zustellen.
