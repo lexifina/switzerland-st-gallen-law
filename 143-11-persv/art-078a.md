@@ -1,0 +1,4 @@
+# Art. 78a Änderung der Löhne
+1 Die Arbeitgeberinnen und Arbeitgeber von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes werden vor einer Änderung der Löhne nach Art. 37 des Personalgesetzes zur schriftlichen Vernehmlassung eingeladen.
+2 Arbeitgeberinnen und Arbeitgeber von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes können der Regierung Antrag auf eine Änderung der Löhne ihrer Mitarbeiterinnen und Mitarbeiter stellen.
+3 Die Regierung kann für Mitarbeiterinnen und Mitarbeiter nach Art. 2 Abs. 2 Ziff. 1 des Personalgesetzes eine Änderung der Löhne bestimmen, die von einer Änderung der Löhne von Mitarbeiterinnen und Mitarbeitern nach Art. 2 Abs. 1 und Art. 2 Abs. 2 Ziff. 2 des Personalgesetzes abweicht. Sie berücksichtigt insbesondere die für die Arbeitgeberin oder den Arbeitgeber massgebliche Arbeitsmarktlage sowie die Finanzlage der Arbeitgeberin oder des Arbeitgebers.
