@@ -1,7 +1,7 @@
 # Hundegesetz
-(HG)
-vom 05.12.1985
-Der Grosse Rat des Kantons St.Gallen
-hat von der Botschaft des Regierungsrates vom 15. Januar 1985 Kenntnis genommen und
+(HuG)
+vom 13.08.2019
+Der Kantonsrat des Kantons St.Gallen
+hat von der Botschaft der Regierung vom 16. Oktober 2018 Kenntnis genommen und
 erlässt
 als Gesetz:
