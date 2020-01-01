@@ -1,0 +1,2 @@
+# Art. 94l Genehmigung der Wahl der Mitglieder des Kantons St.Gallen im Hochschulrat der Ost – Ostschweizer Fachhochschule
+1 Die Wahl der Mitglieder des Kantons St.Gallen im Hochschulrat der Ost – Ostschweizer Fachhochschule sowie die Bestimmung der Präsidentin oder des Präsidenten nach Art. 18 Abs. 2 Bst. a und Abs. 3 der Vereinbarung über die Ost – Ostschweizer Fachhochschule vom 15. Februar 2019 bedarf der Genehmigung des Kantonsrates.
