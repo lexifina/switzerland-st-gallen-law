@@ -1,0 +1,2 @@
+# Art. 18a Elektronische Beglaubigung
+1 Für elektronische Beglaubigungen nach Art. 35ter Abs. 2 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911/22. Juni 1942 verwenden Urkundspersonen eine qualifizierte elektronische Signatur, die auf einem qualifizierten Zertifikat einer anerkannten Anbieterin von Zertifizierungsdiensten im Sinn des Bundesgesetzes über die elektronische Signatur vom 18. März 2016 beruht.
