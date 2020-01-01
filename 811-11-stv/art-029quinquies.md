@@ -1,3 +1,1 @@
-# Art. 29quinquies Abzug von Einsatzkosten bei Geldspielgewinnen
-1 Von den einzelnen Gewinnen aus der Teilnahme an Geldspielen, die nicht nach Art. 7 Abs. 4 Bst. l bis m des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden steuerfrei sind, werden 5 Prozent, jedoch höchstens Fr. 5'000.–, als Einsatzkosten abgezogen.
-2 Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Art. 7 Abs. 4 Bst. lbis des Bundesgesetzes vom 14. Dezember 1990 über die Harmonisierung der direkten Steuern der Kantone und Gemeinden werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr, jedoch höchstens Fr. 25'000.–, abgezogen.
+# Art. 29quinquies …
