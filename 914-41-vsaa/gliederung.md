@@ -1,4 +1,4 @@
-## (1.) I. Einrichtung des Alpbuches
-## (2.) II. Eintragungen in das Alpbuch
-## (3.) III. Verschiedene Bestimmungen
-## (4.) IV. Schlussbestimmung
+## (1.) I. Allgemeine Bestimmungen
+## (2.) II. Rechtsgeschäfte über selbständige Anteilrechte
+## (3.) III. Alpbuch
+## (4.) IV. Übergangsbestimmungen
