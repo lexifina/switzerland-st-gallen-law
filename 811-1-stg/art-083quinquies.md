@@ -1,0 +1,3 @@
+# Art. 83quinquies 2quinquies. Besteuerung stiller Reserven am Ende der Steuerpflicht
+1 Endet die Steuerpflicht, werden die in diesem Zeitpunkt vorhandenen, nicht versteuerten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts besteuert.
+2 Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Inland in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Abschluss der Liquidation, der Übergang zu einer Steuerbefreiung nach Art. 80 Abs. 1 dieses Erlasses sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
