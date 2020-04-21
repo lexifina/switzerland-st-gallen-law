@@ -1,0 +1,14 @@
+Regierungsbeschluss
+über den Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020)
+vom 02.07.2019
+Ziff. 1
+1
+Der Kanton St.Gallen tritt der Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020) vom 20. Mai 2019 bei.
+Ziff. 2
+1
+Dieser Erlass bedarf der Genehmigung des Kantonsrates.
+Ziff. 3
+1
+Dieser Erlass wird ab Vollzugsbeginn des entsprechenden Genehmigungsbeschlusses des Kantonsrates angewendet.
+nGS 2020-115
+Art. 65 Bst. c KV, sGS 111.1.
