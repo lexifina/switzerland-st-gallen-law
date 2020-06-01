@@ -1,7 +1,2 @@
-## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Besondere Bestimmungen
-### (2.1.) 1. Gremien und deren Präsidenten
-### (2.2.) …
-### (2.2bis.) …
-### (2.3.) …
-## (3.) III. Schlussbestimmungen
+## (1.) I. Allgemeine Bestimmung
+## (2.) II. Höhe und Ausrichtung von Vergütungen
