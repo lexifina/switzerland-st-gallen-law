@@ -1,5 +1,8 @@
 ## (1.) I. Allgemeine Bestimmungen
-## (2.) II. Schulgemeinde
+## (2.) II. Schulträger
+### (2.1.) 1. Allgemein
+### (2.2.) 2. Schulgemeinden
+### (2.3.) 3. gemeinsame Bestimmungen
 ## (3.) III. Schule
 ### (3.1.) 1. Grundlagen
 ### (3.2.) 2. Schulorganisation und Unterricht
@@ -23,11 +26,11 @@
 ## (6.) VI. Eltern
 ## (7.) VII. Behörden und Schulleitungen
 ### (7.1.) 1. Regierung
-### (7.2.) 2. Erziehungsrat
+### (7.2.) 2. Bildungsrat
 ### (7.3.) 3. Departement
 ### (7.4.) 4. Regionale Schulaufsicht
 ### (7.4bis.) 4bis. Rekursstellen Volksschule
-### (7.5.) 5. Schulrat
+### (7.5.) 5. Rat
 ### (7.6.) 6. Schulleitungen
 ## (7bis.) VIIbis. Integrationskurs für fremdsprachige Jugendliche
 ## (8.) VIII. Privatunterricht

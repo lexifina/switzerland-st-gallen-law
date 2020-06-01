@@ -4,4 +4,4 @@ a) Unterricht;
 b) Schülerinnen und Schüler;
 c) Schule;
 d) Lehrperson.
-2 Der Erziehungsrat umschreibt und begrenzt durch Reglement die Arbeitsfelder.
+2 Der Bildungsrat umschreibt und begrenzt durch Reglement die Arbeitsfelder.

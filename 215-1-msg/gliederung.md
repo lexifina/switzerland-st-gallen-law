@@ -17,7 +17,7 @@
 ## (5.) V. Eltern unmündiger Schülerinnen und Schüler
 ## (6.) VI. Behörden
 ### (6.1.) 1. Regierung
-### (6.2.) 2. Erziehungsrat
+### (6.2.) 2. Bildungsrat
 ### (6.3.) 3. Aufsichtskommission
 ### (6.4.) 4. Departement
 ## (7.) VII. Verwaltungsverfahren und Rechtsschutz
