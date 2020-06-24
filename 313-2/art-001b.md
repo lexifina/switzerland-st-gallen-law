@@ -1,3 +1,0 @@
-# Art. 1b Amt für Wirtschaft und Arbeit
-1 Das Amt für Wirtschaft und Arbeit ist zuständig für den Vollzug von Art. 6d Abs. 5 der eidgenössischen Verordnung 2 über Massnahmen zur Bekämpfung des Coronavirus (COVID-19) vom 13. März 2020 betreffend Schutzkonzept bei Einrichtungen und Betrieben.
-2 Ausgenommen sind Einrichtungen und Betriebe, die von öffentlich-rechtlichen Körperschaften, öffentlich-rechtlichen Unternehmen oder öffentlich-rechtlichen Anstalten betrieben oder geführt werden. Vorbehalten sind zudem die Zuständigkeiten der politischen Gemeinde nach Art. 1 Abs. 3 und des Kantonsarztamtes nach Art. 1c dieses Erlasses.
