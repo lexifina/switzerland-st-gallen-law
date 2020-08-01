@@ -1,4 +1,4 @@
-# Aufnahmereglement der Mittelschule
+# Aufnahmereglement der Mittelschulen
 vom 25.06.2011
 Der Erziehungsrat des Kantons St.Gallen
 erlässt
