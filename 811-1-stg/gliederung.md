@@ -14,7 +14,7 @@
 #### (2.2.5.) V. Zeitliche Bemessung
 ### (2.3.) Dritter Abschnitt: Quellensteuern für natürliche und juristische Personen
 #### (2.3.1.) I. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-#### (2.3.2.) II. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+#### (2.3.2.) II. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 #### (2.3.2bis.) IIbis. Natürliche Personen mit kleinen Arbeitsentgelten aus unselbständiger Erwerbstätigkeit
 #### (2.3.3.) III. Gemeinsame Bestimmungen
 ### (2.4.) Vierter Abschnitt: Grundstückgewinnsteuer
