@@ -1,6 +1,7 @@
 # Gesetz über den Feuerschutz
 (FSG)
-vom 18.06.1968
-Der Grosse Rat des Kantons St.Gallen
-hat von der Botschaft der Regierung vom 31. Oktober 1967 Kenntnis genommen
-und erlässt als Gesetz:
+vom 28.01.2020
+Der Kantonsrat des Kantons St.Gallen
+hat von der Botschaft der Regierung vom 13. März 2018 Kenntnis genommen und
+erlässt
+als Gesetz:
