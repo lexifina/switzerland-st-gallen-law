@@ -1,6 +1,7 @@
-# Vollzugsverordnung zum Gesetz über den Feuerschutz
-vom 09.12.1969
-Landammann und Regierungsrat des Kantons St.Gallen
-erlassen
-in Ausführung von Art. 54 des Gesetzes über den Feuerschutz vom 18. Juni 1968
+# Feuerschutzverordnung
+(FSV)
+vom 13.10.2020
+Die Regierung des Kantons St.Gallen
+erlässt
+in Ausführung des Gesetzes über den Feuerschutz vom 28. Januar 2020
 als Verordnung:

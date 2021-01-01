@@ -1,27 +1,28 @@
 ## (1.) I. Organisation
-### (1.1.) 1. Politische Gemeinden
-### (1.2.) 2. Staat
-## (2.) II. Brandverhütung
-### (2.1.) 1. Im allgemeinen
-### (2.2.) 2. Bewilligungspflicht
-### (2.3.) 3. Feuerschau
-### (2.4.) 4. Kaminfegerdienst
-### (2.5.) 5. Blitzschutz
-### (2.6.) 6. Allgemeinverbindlicherklärung von Richtlinien
+### (1.1) 1. Gemeinde
+### (1.2.) 2. Kanton
+## (2.) II. Brandschutz
+### (2.1.) 1. Brandschutztechnische Bewilligungen
+### (2.2.) 2. Brandschutztechnische Kontrollen
+### (2.3.) 3. Kontrolle und Reinigung von Feuerungsanlagen
 ## (3.) III. Schadenbekämpfung
-### (3.1.) 1. Feuerwehr
-#### (3.1.1.) a) Gemeindefeuerwehr
-#### (3.1.2.) b) Betriebsfeuerwehren
-#### (3.1.2bis.) bbis) Regionale Stützpunkte
-#### (3.1.3.) c) Kantonales Amt für Feuerschutz
-#### (3.1.4.) d) Feuerwehrpflicht
-#### (3.1.5.) e) Organisation
-#### (3.1.6.) f) Ausbildung
-#### (3.1.7.) g) Ausrüstung
-#### (3.1.8.) h) Alarmierung
-#### (3.1.9.) i) Einsatz im Ernstfall
-#### (3.1.10.) k) Verschiedene Vorschriften
-### (3.2.) 2. Einsatzmittel und Einsatzgeräte
-### (3.3.) 3. Wasserwehr
-## (3bis.) IIIbis. Feuerschutzabgabe
-## (4.) IV. Schlussbestimmungen
+### (3.1.) 1. Organisation der Feuerwehr
+### (3.2.) 2. Erfüllung der Feuerwehraufgaben
+#### (3.2.1.) a) Sicherstellung
+#### (3.2.2.) b) Ausrüstung
+#### (3.2.3.) c) Ereignis
+#### (3.2.4.) d) Feuerwehrstützpunkte
+### (3.3.) 3. Feuerwehrpflicht
+### (3.4.) 4. Feuerwehrausbildung
+### (3.5.) 5. Alarmierung der Feuerwehr
+### (3.6.) 6. Einsatzkosten der Feuerwehr
+### (3.7.) 7. Löschwasserversorgung
+## (4.) IV. Beitragswesen
+### (4.1.) 1. Allgemeine Bestimmungen
+### (4.2.) 2. Beitragsberechtigung und -höhe
+#### (4.2.1.) a) Baulich-technischer Brandschutz
+#### (4.2.2.) b) Feuerwehr
+#### (4.2.3.) c) Löschwasserversorgung
+### (4.3.) 3. Verfahren
+## (5.) V. Feuerschutzabgabe
+## (6.) VI. Schlussbestimmungen
