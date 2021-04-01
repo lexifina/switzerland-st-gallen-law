@@ -1,4 +1,4 @@
-# Bäderverordnung
+# Naturbäderverordnung
 vom 21.11.2000
 Die Regierung des Kantons St.Gallen
 erlässt
