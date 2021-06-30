@@ -1,2 +1,2 @@
-## (1) I. Zuständigkeiten
-## (2) II. Zusätzliche Massnahmen des Kantons
+## (1.) I. Vollzug der Covid-19-Verordnung besondere Lage
+## (2.) II. Vollzug der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs
