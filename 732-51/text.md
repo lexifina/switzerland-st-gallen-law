@@ -1,0 +1,26 @@
+Kantonsratsbeschluss
+über den Ersatz der Brücke Luteren Ennetbühl der Kantonsstrasse Nr. 55 in Nesslau
+vom 15.06.2021
+Der Kantonsrat des Kantons St.Gallen
+hat von der Botschaft der Regierung vom 13. Oktober 2020 Kenntnis genommen und
+erlässt
+als Beschluss:
+Ziff. 1
+1
+Das Bauvorhaben «Ersatz der Brücke Luteren Ennetbühl der Kantonsstrasse Nr. 55 in Nesslau», mit einem Kostenvoranschlag von Fr. 6'606'000.– (Preisbasis Februar 2020), wird genehmigt.
+Ziff. 2
+1
+Zur Deckung der nach Abzug des Gemeindeanteils von Fr. 456'000.– verbleibenden Kosten wird ein Kredit von Fr. 6'150'000.– gewährt.
+2
+Der Kredit wird dem Strassenfonds belastet.
+Ziff. 3
+1
+Über Nachtragskredite für Mehrkosten, die auf ausserordentliche, nicht voraussehbare Umstände zurückgehen, beschliesst der Kantonsrat endgültig.
+2
+Mehrkosten infolge ausgewiesener Teuerung oder Anpassung der Mehrwertsteuer bewilligt die Regierung.
+Ziff. 4
+1
+Die Regierung wird ermächtigt, im Rahmen des Kostenvoranschlags bauliche Änderungen zu beschliessen, soweit sie aus technischen Gründen oder zum Schutz der Umwelt notwendig sind und das Gesamtprojekt dadurch nicht wesentlich umgestaltet wird.
+nGS 2021-047
+ABl 2020-00.031.561.
+Vom Kantonsrat erlassen am 20. April 2021; nach unbenützter Referendumsfrist rechtsgültig geworden am 15. Juni 2021; in Vollzug ab 1. Juli 2021.
