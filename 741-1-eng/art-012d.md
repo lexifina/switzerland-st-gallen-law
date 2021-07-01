@@ -1,0 +1,2 @@
+# Art. 12d Ersatz zentraler direkt-elektrischer Wassererwärmer in bestehenden Bauten mit Wohnnutzung
+1 Als Ersatz von bestehenden zentralen direkt-elektrischen Wassererwärmern in bestehenden Bauten mit Wohnnutzung werden Wassererwärmer bewilligt, die während der Heizperiode mit dem Wärmeerzeuger für die Heizung erwärmt oder vorgewärmt oder die wenigstens zur Hälfte mit erneuerbarer Energie oder Abwärme betrieben werden.
