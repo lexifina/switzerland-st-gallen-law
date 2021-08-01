@@ -1,0 +1,2 @@
+# Art. 66b Urlaub für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes
+1 Mitarbeiterinnen und Mitarbeiter können für die Betreuung ihres wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes einen Betreuungsurlaub von höchstens 14 Wochen innerhalb von 18 Monaten beziehen, sofern sie Anspruch auf eine Betreuungsentschädigung nach Art. 16n bis 16s des Bundesgesetzes über den Erwerbsersatz vom 25. September 1952 haben. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
