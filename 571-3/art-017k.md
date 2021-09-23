@@ -1,0 +1,3 @@
+# Art. 17k Übergangsbestimmung
+1 Entscheide über die Zusicherung einer Unterstützung oder über die Unterstützungsleistung im Fall der Absage, Verschiebung oder reduzierten Durchführung einer Veranstaltung, die der Kanton gestützt auf die Verordnung des Kantons St.Gallen über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung in Zusammenhang mit der Covid-19-Epidemie (Schutzschirm) vom 15. Juni 2021 getroffen hat, behalten ihre Gültigkeit.
+2 Auf Gesuche nach der Verordnung des Kantons St.Gallen über Massnahmen für Publikumsanlässe von überkantonaler Bedeutung in Zusammenhang mit der Covid-19-Epidemie (Schutzschirm) vom 15. Juni 2021, die bei Vollzugsbeginn dieses Nachtrags hängig sind, werden die Bestimmungen dieses Erlasses angewendet.
