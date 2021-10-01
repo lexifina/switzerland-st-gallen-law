@@ -1,4 +1,4 @@
-# Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und Massnahmen im Bereich des internationalen Personenverkehrs
+# Vollzugsverordnung zu den eidgenössischen Covid-19-Verordnungen besondere Lage und internationaler Personenverkehr
 vom 29.06.2021
 Die Regierung des Kantons St.Gallen
 erlässt
