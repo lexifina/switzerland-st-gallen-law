@@ -40,4 +40,4 @@ b) Vorprüfungen und Genehmigungen von kommunalen Rahmennutzungs- und Sondernutz
 c) Gesuchen um Vorprüfung von kommunalen Abwasserreglementen;
 d) Vorprüfungen und Genehmigungen von Vereinbarungen über Zweckverbände und Gemeindeverbände;
 e) Rechtsmittelverfahren im Bereich des Gewässerschutzes, einschliesslich aufsichtsrechtlicher Verfahren;
-f) der Wahrung der Parteirechte des Baudepartementes bei Widerhandlungen gegen Bestimmungen des Umweltschutzes.
+f) der Wahrung der Parteirechte des Bau- und Umweltdepartementes bei Widerhandlungen gegen Bestimmungen des Umweltschutzes.
