@@ -14,3 +14,4 @@
 ## (3.) III. Weiterbildung und höhere Berufsbildung
 ## (4.) IV. Berufs-, Studien- und Laufbahnberatung
 ## (5.) V. Finanzierung
+## (6.) VI. Vergütungen an Mitglieder von Kommissionen sowie Expertinnen und Experten
