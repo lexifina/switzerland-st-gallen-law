@@ -4,3 +4,4 @@
 ## (3.) III. Unterstützung professioneller Sportvereine durch Bereitstellung von Sicherheiten
 ## (4.) IV. Unterstützung von Seilbahnunternehmen
 ## (5.) V. Unterstützung von Tourismusorganisationen
+## (6.) VI. Unterstützung von durch die öffentliche Hand geführten Institutionen der familienergänzenden Kinderbetreuung
