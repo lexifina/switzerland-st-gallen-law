@@ -1,0 +1,5 @@
+# Art. 29a bbis) Wirtschaftlichkeit und Zweckmässigkeit
+1 Zur Beurteilung der wirtschaftlichen und zweckmässigen Leistungserbringung zieht das Amt für Soziales betriebswirtschaftliche Kennzahlen, basierend auf den nach Art. 27 dieses Erlasses eingereichten Unterlagen, sowie kantonale Durchschnittswerte bei. Das Amt für Soziales kann die kantonale Angebotsplanung, Daten anderer Kantone oder Sachverständige beiziehen, wenn für bestimmte Angebote keine Referenzwerte innerhalb des Kantons bestehen.
+2 Ist ein Mehr- oder Minderaufwand für das Folgejahr absehbar, stellt die anerkannte Einrichtung beim Amt für Soziales bis Ende Juli des laufenden Jahres begründeten Antrag auf Anpassung des anrechenbaren Nettoaufwands. Die Begründung der beantragten Veränderung beschreibt deren wirtschaftlich relevante Einflussfaktoren und nimmt insbesondere Bezug auf:
+a) die nach Art. 27 Abs. 1 Bst. h dieses Erlasses zuletzt eingereichte Mehrjahres- und Investitionsplanung;
+b) den jeweils aktuellen Planungs- und Wirkungsbericht.
