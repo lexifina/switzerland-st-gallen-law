@@ -1,6 +1,6 @@
-# Vollzugsverordnung über das Messwesen
-vom 17.11.1987
-Landammann und Regierungsrat des Kantons St.Gallen
-erlassen
-in Ausführung des Bundesgesetzes über das Messwesen vom 9. Juni 1977 und der eidgenössischen Verordnung über Aufgaben und Befugnisse der Kantone im Messwesen (Eichämter-Verordnung) vom 25. Juni 1980
+# Verordnung über das Messwesen
+vom 31.08.2021
+Die Regierung des Kantons St.Gallen
+erlässt
+in Ausführung der Bundesgesetzgebung über das Messwesen
 als Verordnung:

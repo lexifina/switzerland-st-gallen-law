@@ -1,3 +1,3 @@
-## (1.) I. Organisation
-## (2.) II. Abgaben
-## (3.) III. Schlussbestimmungen
+## (1.) I. Allgemeines
+## (2.) II. Eichmeisterinnen und Eichmeister
+## (3.) III. Entschädigung
