@@ -26,6 +26,7 @@
 ### (6.1ter.) 1ter. Budgetierung
 ### (1quater) 1quater. Kredite und Ausgaben
 ### (6.2.) 2. Finanzielle Führungsinstrumente
+### (6.2bis.) 2bis. Veröffentlichung der Besoldung der von der Bürgerschaft gewählten Behördemitglieder
 ### (6.3.) 3. Wirkungsorientierte Verwaltungsführung
 ### (6.3ter.) 4. Ergänzende Vorschriften
 ## (7.) VII. Aufgabenerfüllung durch öffentlich-rechtliche Unternehmen und Private
