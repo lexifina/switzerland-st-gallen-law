@@ -1,6 +1,6 @@
-# Wasserwehrverordnung
-vom 23.11.1993
-Landammann und Regierungsrat des Kantons St.Gallen
-erlassen
-in Ausführung von Art. 2 lit. a und Art. 12 des Rheingesetzes vom 18. Juni 1987 sowie von Art. 9 des Wasserbaugesetzes vom 23. März 1969
+# Verordnung über die Wasserwehr am Alpenrhein und Linthkanal
+vom 29.06.2021
+Die Regierung des Kantons St.Gallen
+erlässt
+in Ausführung des Rheingesetzes vom 18. Juni 1987 und des Linthgesetzes vom 4. April 2002
 als Verordnung:
