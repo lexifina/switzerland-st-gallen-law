@@ -1,0 +1,2 @@
+# Art. 1bis b) grenzüberschreitende Inkassohilfe
+1 Die Regierung bezeichnet die Fachstelle für grenzüberschreitende Inkassohilfe. Diese ist zuständig für die Durchsetzung von Unterhaltsansprüchen nach Massgabe der anwendbaren Amtshilfeübereinkommen und Gegenseitigkeitserklärungen, wenn grenzüberschreitende Verhältnisse sowie anwendbare Amtshilfeübereinkommen oder Gegenseitigkeitserklärungen vorliegen.
