@@ -1,4 +1,4 @@
-# Verordnung über den Sport-Toto-Fonds
+# Verordnung über den Sportfonds
 vom 08.04.2008
 Die Regierung des Kantons St.Gallen
 erlässt
