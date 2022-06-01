@@ -1,4 +1,4 @@
-# Art. 23a b) Zweite Kammer
+# Art. 23a Zweite Kammer
 1 Die zweite Kammer beurteilt Streitigkeiten im Bereich des öffentlich-rechtlichen Personalrechts.
 2 Sie beurteilt:
 a) Klagen nach Art. 79 und 80 des Personalgesetzes vom 25. Januar 2011;

@@ -1,4 +1,4 @@
-# Art. 23b c) Dritte Kammer
+# Art. 23b Dritte Kammer
 1 Die dritte Kammer beurteilt Streitigkeiten im Bereich Öffentlichkeit und Information der Verwaltung, Klagen, die nicht auf Personalrecht beruhen, und Disziplinarmassnahmen gegen Medizinalpersonen.
 2 Sie entscheidet über Rekurse gegen:
 a) Verfügungen der Departemente über Auskunftserteilung sowie Zugang zu amtlichen Dokumenten nach dem Öffentlichkeitsgesetz vom 18. November 2014;
