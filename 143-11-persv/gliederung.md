@@ -21,7 +21,7 @@
 ### (4.2.) 2. Ferien
 ### (4.3.) 3. Urlaub
 ## (5.) V. Entschädigungen aus dem Arbeitsverhältnis
-### (5.1.) 1. Lohn sowie Zulagen und Inkonvenienzentschädigngen
+### (5.1.) 1. Lohn sowie Zulagen und Inkonvenienzentschädigungen
 #### (5.1.1.) a) Lohn
 #### (5.1.2.) b) Zulagen
 #### (5.1.3.) c) Inkonvenienzentschädigungen
