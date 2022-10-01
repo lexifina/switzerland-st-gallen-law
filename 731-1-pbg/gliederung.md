@@ -28,7 +28,7 @@
 #### (2.2.1) 1. Begriffe
 #### (2.2.2) 2. Bauvorschriften für Bauten und Bauteile
 #### (2.2.3) 3. Grössenbeschränkungen
-#### (2.2.4) 4. Dichteziffer
+#### (2.2.4) 4. Nutzungsziffern
 #### (2.2.5) 5. Abstände
 #### (2.2.6) 6. Bauweise und Terrain
 #### (2.2.7) 7. Einordnung und Gestaltung
