@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Entschädigungen und Gebühren
+Anhang –: Entschädigungen und Gebühren im Veterinärwesen
