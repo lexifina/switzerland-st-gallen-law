@@ -1,4 +1,4 @@
-# Gesetz über die Psychiatrieverbunde
+# Gesetz über den Psychiatrieverbund
 (GPV)
 vom 25.01.2011
 Der Kantonsrat des Kantons St.Gallen
