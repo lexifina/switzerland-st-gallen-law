@@ -1,2 +1,2 @@
 Anhänge
-Anhang -: Lohntabelle für das Jahr 2022
+Anhang -: Lohntabelle für das Jahr 2023
