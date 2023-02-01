@@ -6,5 +6,5 @@
 ### (2.4.) 4. Prüfungsresultat
 ### (2.5.) 5. Probezeit und Wiederholung der Prüfung
 ### (2.6.) 6. Klassenbildung
-## (3.) III. Übertritt in eine höhere Klasse
+## (3.) III. Übertritt
 ## (4.) IV. Schlussbestimmungen
