@@ -1,0 +1,4 @@
+# Art. 26a c) ausserordentliche Assistenz
+1 Die ausserordentliche Assistenz dient der direkten Zulassung zur eidgenössischen Prüfung in Humanmedizin nach den Richtlinien der eidgenössischen Medizinalberufekommission für Personen, die keinen schweizerischen Studienabschluss in Humanmedizin haben.
+2 Einer Person, die als Ärztin oder Arzt im Register nach Art. 51 des Bundesgesetzes über die universitären Medizinalberufe vom 23. Juni 2006 eingetragen ist, aber kein eidgenössisches oder eidgenössisch anerkanntes Diplom besitzt, kann die Bewilligung für eine ausserordentliche Assistenz erteilt werden.
+3 Die ausserordentliche Assistenz wird auf die Dauer der klinischen Tätigkeit beschränkt, die für die Zulassung nach Abs. 1 dieser Bestimmung erforderlich ist. Der geplante Beschäftigungsgrad wird berücksichtigt.
