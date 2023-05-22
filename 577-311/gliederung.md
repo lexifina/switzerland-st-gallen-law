@@ -4,6 +4,7 @@
 ### (2.2.) 2.2 Finanzhaushalt
 ## (3.) 3. Verwaltungsrat
 ## (4.) 4. Geschäftsleitung
+## (4a.) 4a. Beiräte
 ## (5.) 5. Kooperationspartner
 ## (6.) 6. Administrative Regelungen
 ## (7.) 7. Schlussbestimmungen
