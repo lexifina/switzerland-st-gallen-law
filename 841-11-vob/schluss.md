@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Wahl des Verfahrens
+Anhang –: Nachweis der Erfüllung der Teilnahmebedingungen und der Eignungskriterien
