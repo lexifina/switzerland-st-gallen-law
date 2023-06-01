@@ -1,3 +1,3 @@
-# Art. 74a c) Verfahren
-1 Das Verfahren richtet sich sachgemäss nach den Vorschriften des Gesetzes über Referendum und Initiative.
+# Art. 74a c) ergänzendes Recht
+1 Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative sachgemäss angewendet.
 2 Die Gemeindeordnung kann andere Fristen vorsehen.
