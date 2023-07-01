@@ -35,7 +35,7 @@
 ### (3.5.) 5. Protokoll und Aufzeichnung
 ## (4.) IV. Entschädigungen
 ### (4.1.) 1. Mitglieder des Kantonsrates
-### (4.2.) 2. Präsidenten und Berichterstatter
+### (4.2.) 2. Präsidentinnen und Präsidenten sowie Berichterstatterinnen und Berichterstatter
 ### (4.3.) 3. Fraktionen
 #### (4.3.1.) a) Fraktionssitzungen
 #### (4.3.2.) b) übrige Fraktionstätigkeit
