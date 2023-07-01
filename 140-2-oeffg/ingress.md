@@ -1,4 +1,4 @@
-# Gesetz über das Öffentlichkeitsprinzip der Verwaltung (Öffentlichkeitsgesetz)
+# Öffentlichkeitsgesetz
 (OeffG)
 vom 18.11.2014
 Der Kantonsrat des Kantons St.Gallen
