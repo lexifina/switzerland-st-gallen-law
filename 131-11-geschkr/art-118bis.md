@@ -1,0 +1,2 @@
+# Art. 118bis i) unaufschiebbarer Regelungsbedarf
+1 Bei unaufschiebbarem Regelungsbedarf im Sinn von Art. 75 der Kantonsverfassung vom 10. Juni 2001 kann der Kantonsrat die Regierung mit einer Motion beauftragen, dem Kantonsrat ohne Verzug eine Vorlage zu unterbreiten, so dass die Vorlage an der nächsten Session des Kantonsrates behandelt werden kann. Eine spätere Unterbreitung bedarf der Zustimmung des Präsidiums.
