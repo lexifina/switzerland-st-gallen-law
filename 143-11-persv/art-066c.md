@@ -1,0 +1,2 @@
+# Art. 66c Adoptionsurlaub
+1 Mitarbeiterinnen und Mitarbeiter können bei Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption einen Adoptionsurlaub von zwei Wochen innerhalb eines Jahres nach Aufnahme des Kindes beziehen, sofern sie Anspruch auf eine Adoptionsentschädigung nach Art. 16t bis 16x des Bundesgesetzes über den Erwerbsersatz vom 25. September 1952 haben. Die Leistungen der Erwerbsersatzordnung gehen im Ausmass der Lohnfortzahlung an den Kanton über.
