@@ -1,6 +1,7 @@
 # Art. 14d d) besondere Aufträge
 1 Der Rektorin oder dem Rektor stehen für die Erteilung besonderer Aufträge an Lehrpersonen zur Verfügung:
-a) je Klasse: 4 Stellenprozente;
+a) je Schule: 80 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 150 Stellenprozente;
+abis) je Klasse: 4 Stellenprozente;
 b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente.
 2 Der Rektorin oder dem Rektor stehen für die Ausübung von Leitungsfunktionen durch Lehrpersonen zudem zur Verfügung:
 1. je Schule: 83 Stellenprozente;
