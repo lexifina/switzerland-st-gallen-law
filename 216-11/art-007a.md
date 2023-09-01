@@ -6,4 +6,5 @@ b) Funktionen und Nebenbeschäftigungen in Non-Profit-Organisationen;
 c) entgeltliche Nebenbeschäftigungen;
 d) Ausübung von öffentlichen Ämtern.
 3 Die Rektorin oder der Rektor kann die Ausübung der Tätigkeit untersagen oder Auflagen festlegen, wenn sich diese nachteilig auf die Erfüllung der Aufgaben auswirkt oder auswirken könnte oder sich mit den Interessen der Hochschule nicht verträgt.
-4 Zeitintensive Tätigkeiten von Rektoratsmitgliedern und Dozierenden mit unbefristetem Arbeitsverhältnis bedürfen der Genehmigung des Hochschulrates. Die Rektorin oder der Rektor stellt Antrag.
+4 Zeitintensive Tätigkeiten von Rektoratsmitgliedern sowie von Professorinnen und Professoren bedürfen der Genehmigung des Hochschulrates. Die Rektorin oder der Rektor stellt Antrag.
+(2.2.) …
