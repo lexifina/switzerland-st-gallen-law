@@ -6,3 +6,4 @@ a) der Bedarf ausgewiesen ist. Bei Angeboten für Betagte ist die Standortgemein
 b) die Wohnungen grundsätzlich barrierefrei ausgestaltet sind;
 c) ein Bereitschaftsdienst und ein angemessenes Angebot an Grundbetreuung sichergestellt sind.
 4 Die zuständige Stelle überprüft die Erfüllung der Anerkennungsvoraussetzungen regelmässig. Bei Angeboten für Betagte hört sie zum Bedarfsausweis nach Abs. 3 Bst. a dieser Bestimmung die Standortgemeinde an.
+(2.) II. Ausserordentliche Ergänzungsleistungen
