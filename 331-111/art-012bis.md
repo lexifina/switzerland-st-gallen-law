@@ -1,5 +1,5 @@
 # Art. 12bis 2. quellenbesteuerte Personen
-1 Als massgebendes Einkommen gilt das der Quellensteuer zugrunde liegende definitive Brutto-Einkommen des vorletzten Jahres.
+1 Als massgebendes Einkommen gilt das der Quellensteuer zugrunde liegende definitive Brutto-Einkommen des vorletzten Jahres zuzüglich des im vereinfachten Verfahren nach Art. 3 des Bundesgesetzes über Massnahmen zur Bekämpfung der Schwarzarbeit vom 17. Juni 2005 abgerechneten Bruttolohns des vorletzten Jahres.
 2 Es werden sachgemäss angewendet:
 a) Art. 12a dieses Erlasses beim Zuzug einer Person aus dem Ausland oder einem anderen Kanton;
 b) Art. 12b dieses Erlasses, wenn eine Person ihren Zivilstand im Jahr vor dem Bezugsjahr ändert;
