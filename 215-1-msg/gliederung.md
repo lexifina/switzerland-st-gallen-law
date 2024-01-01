@@ -14,7 +14,7 @@
 ## (4.) IV. Lehrperson
 ### (4.1.) 1. Beginn und Ende des Arbeitsverhältnisses
 ### (4.2.) 2. Rechte und Pflichten
-## (5.) V. Eltern unmündiger Schülerinnen und Schüler
+## (5.) V. Eltern nicht volljähriger Schülerinnen und Schüler
 ## (6.) VI. Behörden
 ### (6.1.) 1. Regierung
 ### (6.2.) 2. Bildungsrat
