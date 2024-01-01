@@ -2,4 +2,5 @@
 ## (2.) II. Regierung
 ## (3.) III. Departemente
 ## (4.) IV. Staatskanzlei
-## (5.) V. Schlussbestimmung
+## (4.1) IVbis. Gebühren der Regierung
+## (5.) V. Schlussbestimmungen
