@@ -1,0 +1,3 @@
+# Art. 8a Beitrag
+1 Nichterwerbstätige leisten einen Beitrag von 20 Prozent ihrer AHV-Beiträge an die Finanzierung der Familienzulagen für Nichterwerbstätige nach Art. 17a des Einführungsgesetzes zur Bundesgesetzgebung über die Familienzulagen, sofern ihre AHV-Beiträge den Mindestbeitrag nach Art. 10 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 übersteigen.
+2 Für Nichterwerbstätige über dem Mindestbeitrag nach Art. 10 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung vom 20. Dezember 1946 wird der geschuldete Beitrag ab dem ersten Franken berechnet.
