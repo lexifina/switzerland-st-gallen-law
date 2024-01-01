@@ -1,5 +1,5 @@
-# Ermächtigungsverordnung
-(ErmV)
+# Delegationsverordnung
+(DelV)
 vom 04.01.2011
 Die Regierung des Kantons St.Gallen
 erlässt
