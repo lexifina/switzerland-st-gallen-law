@@ -1,7 +1,7 @@
 ## (1.) I. Allgemeine Bestimmung
 ## (2.) II. Führung und Organisation
 ### (2.1.) 1. Schulleitung
-### (II. 2.) Schulbetrieb
+### (II. 2.) 2. Schulbetrieb
 ## (3.) III. Schülerinnen und Schüler
 ### (3.1.) 1. Allgemeine Bestimmungen
 ### (3.2.) 2. Schülerorganisation
