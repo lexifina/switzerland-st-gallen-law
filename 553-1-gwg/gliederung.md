@@ -6,7 +6,7 @@
 ### (2.1.) 1. Patent für einen Betrieb
 ### (2.2.) 2. Patent für einen Anlass
 ### (2.3.) 3. Schliessungszeit
-### (2.4.) 4. Pflichten des Patentinhabers
+### (2.4.) 4. Pflichten der Patentinhaberin oder des Patentinhabers
 ## (3.) III. Kleinhandel mit gebrannten Wassern
 ## (3bis.) IIIbis. Kleinhandel mit alkoholischen Getränken
 ## (4.) IV. Schlussbestimmungen
