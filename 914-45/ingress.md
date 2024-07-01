@@ -1,4 +1,4 @@
-# Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalter
+# Verordnung über die Prüfung und den Fähigkeitsausweis der Grundbuchverwalterinnen und Grundbuchverwalter
 vom 30.03.1976
 Landammann und Regierungsrat des Kantons St.Gallen
 erlassen
