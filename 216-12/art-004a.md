@@ -1,0 +1,4 @@
+# Art. 4a Zulassung mittels Ergänzungsprüfung
+1 Absolventinnen und Absolventen einer Fach-, Wirtschafts-, Informatikmittel- oder Berufsmaturitätsschule sowie Berufsleute mit eidgenössischem Fähigkeitszeugnis und mehrjähriger Berufserfahrung erbringen für die Zulassung zum Studiengang Sekundarstufe I der Pädagogischen Hochschule St.Gallen den Nachweis zusätzlicher Allgemeinbildung.
+2 Die Rektorin oder der Rektor kann Ergänzungsprüfungen von Institutionen, welche die Zulassung zur Ausbildung zur Lehrperson der Sekundarstufe I an einer Pädagogischen Hochschule in der Schweiz ermöglichen, allgemein als gültigen Nachweis zusätzlicher Allgemeinbildung anerkennen.
+3 Die Pädagogische Hochschule St.Gallen oder die Interstaatliche Maturitätsschule für Erwachsene St.Gallen/Sargans (ISME) kann eine Ergänzungsprüfung anbieten, mit deren Bestehen der Nachweis zusätzlicher Allgemeinbildung erbracht wird.

@@ -1,3 +1,3 @@
-## (1.) I. Zulassung zum Studiengang Kindergarten und Primarschule
+## (1.) I. Zulassung zum Studiengang Kindergarten- und Primarstufe
 ## (2.) II. Zulassung zum Studiengang Sekundarstufe I
 ## (3.) III. Schlussbestimmungen
