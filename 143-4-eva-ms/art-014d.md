@@ -3,6 +3,8 @@
 a) je Schule: 80 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 150 Stellenprozente;
 abis) je Klasse: 4 Stellenprozente;
 b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente;
+c) je neu angestellte Lehrperson ohne Unterrichtserfahrung während des ersten Anstellungsjahres: 0,8 Stellenprozente;
+d) je neu angestellte Lehrperson mit Unterrichtserfahrung während des ersten Anstellungsjahres: 0,4 Stellenprozente.
 2 Der Rektorin oder dem Rektor stehen für die Ausübung von Leitungsfunktionen durch Lehrpersonen zudem zur Verfügung:
 1. je Schule: 83 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 200 Stellenprozente;
 2. je Abteilung: 9 Stellenprozente;
