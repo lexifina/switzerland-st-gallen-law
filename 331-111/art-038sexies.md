@@ -1,0 +1,3 @@
+# Art. 38sexies Übernahme der ausstehenden Forderungen
+1 Die politischen Gemeinden teilen der Sozialversicherungsanstalt in der von ihr vorgegebenen Form jeweils bis zum 31. Oktober mit, wenn sie zusätzlich 5 Prozent der Forderungen übernehmen möchten, die im Folgejahr Gegenstand einer Meldung nach Art. 64a Abs. 3 und 3bis des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 sein werden. Die Mitteilung gilt für ein Kalenderjahr.
+2 Die Sozialversicherungsanstalt übernimmt die zusätzlichen 5 Prozent der Forderungen, wenn dies von allen politischen Gemeinden verlangt wird. Sie informiert die politischen Gemeinden über die Übernahme.
