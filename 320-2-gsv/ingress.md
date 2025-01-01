@@ -1,4 +1,4 @@
-# Gesetz über die Spitalverbunde
+# Gesetz über den Spitalverbund
 (GSV)
 vom 22.09.2002
 Der Grosse Rat des Kantons St.Gallen
