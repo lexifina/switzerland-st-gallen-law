@@ -1,2 +1,2 @@
 Anhänge
-Anhang -: Lohntabelle für das Jahr 2024
+Anhang –: Lohntabelle für das Jahr 2025
