@@ -6,4 +6,4 @@ c) Absperrungen und Umleitungen;
 d) Verkehrsregelung;
 e) Vermisstensuche;
 f) weitere Aufgaben unter Begleitung und Führung durch Angehörige des Polizeikorps.
-2 Der Polizeikommandant bietet die Angehörigen des Polizeiassistenzdienstes für den Einsatz auf.
+2 Die Polizeikommandantin oder der Polizeikommandant bietet die Angehörigen des Polizeiassistenzdienstes für den Einsatz auf.
