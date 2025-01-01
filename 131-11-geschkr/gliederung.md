@@ -26,7 +26,7 @@
 #### (3.2.3.) c) parlamentarische Vorstösse
 #### (3.2.3bis.) cbis) Standesbegehren
 #### (3.2.4.) d) Fragestunde
-#### (3.2.5.) e) Eingaben
+#### (3.2.5.) e) Ersuchen zuhanden des Kantonsrates
 ### (3.3.) 3. Abstimmungen
 #### (3.3.1.) a) allgemein
 #### (3.3.2.) b) Abstimmung mit elektronischer Abstimmungsanlage
@@ -39,4 +39,5 @@
 ### (4.3.) 3. Fraktionen
 #### (4.3.1.) a) Fraktionssitzungen
 #### (4.3.2.) b) übrige Fraktionstätigkeit
+### (4.4.) 4. Berufliche Vorsorge
 ## (5.) V. Schlussbestimmungen
