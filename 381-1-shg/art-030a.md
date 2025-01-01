@@ -1,5 +1,5 @@
 # Art. 30a Qualitätsanforderungen
-1 Stationäre Einrichtungen für Betagte und Sterbehospiz-Einrichtungen erfüllen qualitative Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen.
+1 Stationäre Einrichtungen für Betagte und spezialisierte Pflegeeinrichtungen erfüllen qualitative Mindestanforderungen an Pflege und Betreuung in stationären Einrichtungen.
 2 Sie erfüllen die qualitativen Mindestanforderungen an Pflege und Betreuung, wenn insbesondere:
 a) die Einrichtung über konzeptionelle Grundlagen betreffend Leistungen sowie Führung und Organisation verfügt, welche:
 1. auf die Sicherstellung des Wohls der betreuten Person ausgerichtet sind;
@@ -9,3 +9,4 @@ c) die Zahl der Mitarbeitenden den Anforderungen der Pflege und Betreuung entspr
 d) Bauten und Ausstattung zweckmässig sind und den Bedürfnissen der betreuten Personen entsprechen;
 e) der Betrieb wirtschaftlich gesichert erscheint;
 f) die interne Aufsicht sichergestellt ist.
+3 Spezialisierte Pflegeeinrichtungen erfüllen zusätzliche Qualitätsanforderungen.
