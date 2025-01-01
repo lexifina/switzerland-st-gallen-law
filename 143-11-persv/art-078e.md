@@ -1,4 +1,4 @@
-# Art. 78e Besondere Bestimmungen für die Spitalverbunde, den Psychiatrieverbund und das Zentrum für Labormedizin a) Kaderärztinnen und Kaderärzte 1. Grundsatz
+# Art. 78e Besondere Bestimmungen für den Spitalverbund, den Psychiatrieverbund und das Zentrum für Labormedizin a) Kaderärztinnen und Kaderärzte 1. Grundsatz
 1 Kaderärztinnen und Kaderärzte sind:
 a) Chefärztinnen und Chefärzte;
 b) Leitende Ärztinnen und Leitende Ärzte;
