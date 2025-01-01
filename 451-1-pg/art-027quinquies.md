@@ -1,0 +1,4 @@
+# Art. 27quinquies d) Information von Privatpersonen und Behörden
+1 Die Polizei kann Personendaten, einschliesslich besonders schützenswerte Personendaten und Persönlichkeitsprofile, von Personen, bei denen aufgrund ihres Verhaltens oder ihrer Äusserungen eine erhebliche Gefährdung der physischen, psychischen oder sexuellen Integrität von Personen anzunehmen ist, an gefährdete Personen sowie an weitere Personen und Behörden weitergeben, soweit dies zur Abwehr oder Verhütung einer erheblichen Gefährdung erforderlich und geeignet ist.
+2 Die Polizei wahrt bei der Weitergabe nach Abs. 1 dieser Bestimmung die Persönlichkeitsrechte der gefährdenden Person.
+3 Die Weitergabe nach Abs. 1 dieser Bestimmung erfolgt in der Regel unter gleichzeitiger Information der gefährdenden Person. Die Mitteilung kann aufgeschoben oder unterlassen werden, wenn der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
