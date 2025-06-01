@@ -1,4 +1,4 @@
-# Verordnung über die Sicherheitsleistung von Behördemitgliedern, Beamten und Angestellten
+# Verordnung über die Sicherheitsleistung von Behördemitgliedern und Angestellten
 vom 19.05.1981
 Landammann und Regierungsrat des Kantons St.Gallen
 erlassen
