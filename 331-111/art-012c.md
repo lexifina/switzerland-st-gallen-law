@@ -1,4 +1,4 @@
 # Art. 12c dd) Abschluss und Aufnahme einer Ausbildung
 1 Wurde in den zwei Jahren vor dem Bezugsjahr eine Ausbildung abgeschlossen, gilt das voraussichtliche Bruttoeinkommen des Bezugsjahres zuzüglich 20 Prozent des steuerbaren Vermögens als massgebendes Einkommen. Das Bruttoeinkommen wird zu 75 Prozent angerechnet.
-2 Wurde in den zwei Jahren vor dem Bezugsjahr eine Ausbildung aufgenommen und die Erwerbstätigkeit reduziert oder aufgegeben, gilt das voraussichtliche Bruttoeinkommen des Bezugsjahres zuzüglich 20 Prozent des steuerbaren Vermögens als massgebendes Einkommen. Das Bruttoeinkommen wird zu 75 Prozent angerechnet.
+2 Wurde in den zwei Jahren vor dem Bezugsjahr eine Ausbildung aufgenommen und das Einkommen reduziert oder kein Einkommen erzielt, gilt das voraussichtliche Bruttoeinkommen des Bezugsjahres zuzüglich 20 Prozent des steuerbaren Vermögens als massgebendes Einkommen. Das Bruttoeinkommen wird zu 75 Prozent angerechnet.
 3 Ist die Veranlagung rechtskräftig, führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung nach Art. 12 Abs. 2 und Abs. 3 dieses Erlasses durch.

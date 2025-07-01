@@ -1,4 +1,4 @@
-# Art. 9a b) Grenzgänger
-1 Massgebend für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, in einem Arbeitsverhältnis im Kanton stehen, sind die persönlichen und familiären Verhältnisse am 1. Januar.
-2 Massgebend für Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union und mit einer Erwerbsaufnahme während des Kalenderjahres in der Schweiz sowie einem Anknüpfungspunkt an den Kanton sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
-3 Der Anspruch der mitversicherten Familienangehörigen von Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union leitet sich von der Person mit Anbindung an den Kanton ab.
+# Art. 9a b) Grenzgängerinnen und Grenzgänger
+1 Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, in einem Arbeitsverhältnis im Kanton stehen, sind die persönlichen und familiären Verhältnisse am 1. Januar.
+2 Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union und mit einer Erwerbsaufnahme während des Kalenderjahres in der Schweiz sowie einem Anknüpfungspunkt an den Kanton sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
+3 Der Anspruch der mitversicherten Familienangehörigen von Grenzgängerinnen und Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union leitet sich von der Person mit Anbindung an den Kanton ab.

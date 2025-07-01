@@ -1,0 +1,5 @@
+# Art. 22a Anmeldung junger erwachsener Personen in Ausbildung bis zum vollendeten 25. Altersjahr
+1 Die Anmeldung nach Art. 11bis des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995 für eine in Ausbildung stehende junge erwachsene Person bis zum vollendeten 25. Altersjahr erfolgt:
+a) gemeinsam mit der Anmeldung der Eltern, wenn für die Person eine Ausbildungszulage nach dem Bundesgesetz über die Familienzulagen und Finanzhilfen an Familienorganisationen vom 24. März 2006 oder nach dem Bundesgesetz über die Familienzulagen in der Landwirtschaft vom 20. Juni 1952 bezogen wird;
+b) in anderen Fällen mit einer separaten Anmeldung der in Ausbildung stehenden Person.
+2 Bei einer fristgerecht erfolgten Anmeldung durch die nicht zuständigen Eltern oder die nicht zuständige in Ausbildung stehende Person, bleibt die Anmeldefrist nach Art. 11bis des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995 gewahrt, wenn die korrekte Anmeldung innert drei Monaten nach der Aufforderung der Sozialversicherungsanstalt nachgeholt wird.
