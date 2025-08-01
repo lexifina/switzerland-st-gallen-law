@@ -4,7 +4,7 @@
 ### (1.3.) III. Kosten
 ## (2.) Zweiter Teil: Gefängnisse
 ### (2.1.) I. Eintritt und Entlassung
-### (2.2.) II. Ausrüstung des Gefangenen
+### (2.2.) II. Ausrüstung der inhaftierten Person
 ### (2.3.) III. Tagesablauf
 ### (2.4.) IV. Verpflegung, Einkauf, Geschenke
 ### (2.5.) V. Medizinische und soziale Betreuung
