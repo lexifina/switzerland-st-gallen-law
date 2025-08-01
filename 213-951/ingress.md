@@ -3,3 +3,4 @@ vom 03.02.2015
 Die Regierung des Kantons St.Gallen erlässt
 in Ausführung von Art. 39ter des Volksschulgesetzes vom 13. Januar 1983
 als Verordnung:
+(1.) I. Allgemeine Bestimmungen
