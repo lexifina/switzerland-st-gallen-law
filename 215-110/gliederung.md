@@ -3,8 +3,6 @@
 ### (2.1.) 1. Grundsätze
 ### (2.2.) 2. Zulassung zur Prüfung
 ### (2.3.) 3. Gegenstand, Organisation und Ablauf der Prüfung
-### (2.4.) 4. Prüfungsresultat
-### (2.5.) 5. Probezeit und Wiederholung der Prüfung
-### (2.6.) 6. Klassenbildung
+### (2.4.) 4. Prüfungsresultat und Prüfungswiederholung
+### (2.5.) 5. Klassenbildung
 ## (3.) III. Übertritt
-## (4.) IV. Schlussbestimmungen
