@@ -7,3 +7,5 @@ d) die maximale Höhe der jährlichen Einlagen und des Bestands der Reserve Wert
 2 Das zuständige Departement erlässt Weisungen über:
 a) den Kontenrahmen;
 b) die Berechnung der Finanzkennzahlen.
+(7.) VII. Aufgabenerfüllung durch öffentlich-rechtliche Unternehmen und Private
+(7.1.) 1. Allgemeines

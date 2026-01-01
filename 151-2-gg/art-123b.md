@@ -7,3 +7,4 @@ c) Pensum in Prozent bei Personen, die für die Behördentätigkeit einen Monats
 d) Bruttolohn für die Behördentätigkeit;
 e) Spesenvergütungen für die Behördentätigkeit;
 f) Entschädigungen über Fr. 500.–, die ein Behördemitglied für seine Tätigkeit in Organen juristischer Personen des öffentlichen oder privaten Rechts erhält, in die es von der Gemeinde direkt oder indirekt abgeordnet wurde, sofern die Entschädigung dem Behördemitglied und nicht der Gemeinde zufliesst.
+(6.3.) 3. Wirkungsorientierte Verwaltungsführung
