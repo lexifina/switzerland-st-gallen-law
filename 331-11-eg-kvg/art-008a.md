@@ -3,4 +3,4 @@
 a) sobald die Voraussetzungen für das Fortsetzungsbegehren erfüllt sind;
 b) bevor der Versicherer das Fortsetzungsbegehren stellt.
 2 Der Versicherer gibt mit der Meldung Name, Vorname, Adresse, Geschlecht, Geburtsdatum und AHV-Versichertennummer der betroffenen versicherten Person bekannt.
-3 Er setzt das Betreibungsverfahren bis zur Meldung der Sozialversicherungsanstalt über das Vorliegen eines dem Verlustschein gleichzusetzenden Rechtstitels nicht fort.
+3 …

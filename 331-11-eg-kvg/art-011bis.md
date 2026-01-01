@@ -1,6 +1,7 @@
-# Art. 11bis c) Anmeldung
-1 Der Anspruch auf Prämienverbilligung setzt eine Anmeldung bei der Sozialversicherungsanstalt bis am 31. März des Jahres voraus, für das die Prämienverbilligung beansprucht wird.
-2 Für folgende Personen bestimmt die Regierung die Frist zur Anmeldung der Prämienverbilligung durch Verordnung:
-a) Zuzüger aus dem Ausland und Personen mit einer Aufenthaltsberechtigung im Kanton;
-b) Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die in einem Arbeitsverhältnis im Kanton stehen.
-3 Für Anmeldungen, die nicht fristgemäss eingereicht werden, gilt Art. 41 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000 sachgemäss.
+# Art. 11bis c) Anmeldung und Anspruchsbeginn 1. allgemein
+1 Der Anspruch auf Prämienverbilligung für das ganze Kalenderjahr setzt voraus:
+a) eine Anmeldung bei der Sozialversicherungsanstalt bis am 31. März des Jahres, für das die Prämienverbilligung beansprucht wird, oder
+b) den Beginn der Ausrichtung von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen bis am 31. März des Jahres, für das die Prämienverbilligung beansprucht wird.
+2 …
+3 Für Anmeldungen nach Abs. 1 Bst. a dieser Bestimmung, die nicht fristgemäss eingereicht werden, entsteht der Anspruch auf Prämienverbilligung ab dem Monat der Anmeldung. Vorbehalten bleibt die sachgemässe Anwendung von Art. 41 des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000.
+4 Bei einem Beginn der Ausrichtung von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen nach dem 31. März des Jahres, für das die Prämienverbilligung beansprucht wird, entsteht der Anspruch auf Prämienverbilligung ab dem Monat der Ausrichtung von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen.
