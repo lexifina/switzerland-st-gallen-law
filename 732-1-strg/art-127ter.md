@@ -1,0 +1,3 @@
+# Art. 127ter Übergangsbestimmung des VIII. Nachtrags vom 29. Juli 2025
+1 Die politische Gemeinde erstellt die Pläne für die Velowegnetze nach Art. 5 Abs. 1 Bst. a des Bundesgesetzes über Velowege vom 18. März 2022 bis am 31. Dezember 2027 und setzt sie bis am 31. Dezember 2042 um. Vorbehalten bleibt eine allfällige Verlängerung der Frist durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation.
+2 Die bisherigen Fuss-, Wander- und Radwege von regionaler Bedeutung gelten bis zur Anpassung an das neue Recht als entsprechende Fuss-, Wander- und Velowege von kantonaler Bedeutung.

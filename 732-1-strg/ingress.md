@@ -5,5 +5,5 @@ Der Grosse Rat des Kantons St.Gallen
 hat von der Botschaft des Regierungsrates vom 28. Mai 1986 Kenntnis genommen und
 erlässt
 in Ausführung von Art. 17 der Kantonsverfassung vom 16. November 1890,
-in Vollzug des Bundesgesetzes über die Nationalstrassen vom 8. März 1960 und des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985
+in Vollzug des Bundesgesetzes über die Nationalstrassen vom 8. März 1960, des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985 und des Bundesgesetzes über Velowege vom 18. März 2022
 als Gesetz:
