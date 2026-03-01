@@ -1,0 +1,4 @@
+# Art. 50h 2. ordentliche Veranlagung
+1 Die abgabepflichtige Person kann verlangen, dass die Ersatzabgabe aufgrund ihres AHV-pflichtigen Jahreseinkommens veranlagt wird.
+2 Sie weist die Höhe ihres AHV-pflichtigen Jahreseinkommens durch eine rechtskräftige Steuerveranlagung oder die steuerrechtlichen Lohnausweise nach. Ganz oder teilweise selbständig erwerbstätige Personen weisen das AHV-pflichtige Jahreseinkommen durch die Beitragsverfügung nach der AHV-Gesetzgebung nach.
+3 Das Gesuch um ordentliche Veranlagung kann innert drei Jahren ab Rechtskraft der Steuerveranlagung eingereicht werden. Bei ganz oder teilweise selbständig erwerbstätigen Personen ist die Rechtskraft der Beitragsverfügung nach der AHV-Gesetzgebung massgebend. Nach unbenutztem Ablauf der Frist verwirkt der Anspruch auf eine ordentliche Veranlagung der Ersatzabgabe für das betroffene Kalenderjahr.
