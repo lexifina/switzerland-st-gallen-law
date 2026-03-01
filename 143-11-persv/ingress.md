@@ -5,3 +5,4 @@ Die Regierung des Kantons St.Gallen
 erlässt
 in Ausführung des Personalgesetzes vom 25. Januar 2011
 als Verordnung:
+(1.) I. Allgemeine Bestimmungen

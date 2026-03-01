@@ -1,3 +1,5 @@
 # Art. 119a Grundsatz
 1 Die Mitarbeiterin oder der Mitarbeiter liefert nicht im Lohn enthaltene finanzielle Abgeltungen durch Dritte für Tätigkeiten, die nach Vereinbarung mit der Arbeitgeberin oder dem Arbeitgeber in der Arbeitszeit ausgeübt werden können, an die Arbeitgeberin oder den Arbeitgeber ab. Ausgenommen sind Abgeltungen für öffentliche Ämter nach Art. 67a Abs. 1 dieses Erlasses.
 2 Die Bestimmungen der Verordnung über die Höhe, Ausrichtung und Ablieferung von Vergütungen im Zusammenhang mit der Einsitznahme in Organe von Organisationen mit kantonaler Beteiligung (Vergütungsverordnung) vom 6. Oktober 2015 sowie der Besoldungsverordnung für Magistratspersonen vom 3. September 2013 bleiben vorbehalten.
+(6.) VI. Spesenersatz
+(6.1.) 1. Grundsätze
