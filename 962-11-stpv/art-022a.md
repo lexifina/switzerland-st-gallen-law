@@ -5,6 +5,6 @@ b) bei selbständiger Erwerbstätigkeit: einen Nachweis für die selbständige E
 c) wenn sie sich in Ausbildung befindet: eine Ausbildungsbescheinigung mit Angaben zur Ausbildungsstätte und zu den Unterrichtszeiten;
 d) wenn sie sich in einem Arbeitsloseneinsatzprogramm befindet: eine Bescheinigung der durchführenden Stelle mit den Einsatzzeiten;
 e) bei Haus- und Erziehungsarbeit: ein Wochenprogramm.
-2 Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich einen Nachweis für ihr Aufenthaltsrecht in der Schweiz und die Berechtigung für eine Erwerbstätigkeit oder Ausbildung ein.
+2 Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich zu ihrem aufenthaltsrechtlichen Status die Berechtigung für die Ausübung einer Erwerbstätigkeit oder Ausbildung ein, wenn sich diese aus dem Aufenthaltstitel nicht eindeutig ergibt.
 3 Das Amt für Justizvollzug kann weitere Unterlagen einfordern.
 4 Bei der Bestimmung des Vollzugsorts berücksichtigt das Sicherheits- und Justizdepartement den Wohn- und Arbeitsort der verurteilten Person.

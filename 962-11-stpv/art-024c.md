@@ -8,3 +8,4 @@ a) bei leichtem Verschulden. Stattdessen kann die eingeräumte freie Zeit einges
 b) wenn die verurteilte Person nach unverschuldetem Verlust der Beschäftigung während der elektronischen Überwachung innerhalb von vierzehn Tagen eine andere geeignete Arbeit findet und die Betreuung und Überwachung während der Beschäftigungslosigkeit gewährleistet sind.
 3 Wird gegen die verurteilte Person eine Strafuntersuchung eingeleitet, kann der Vollzug der elektronischen Überwachung unterbrochen und bei einer Verurteilung abgebrochen werden.
 4 Wird die elektronische Überwachung abgebrochen, wird die restliche Freiheitsstrafe im Normalvollzug oder, wenn die Voraussetzungen erfüllt sind, in Form der Halbgefangenschaft vollzogen. Bei freiwilligem Verzicht auf die elektronische Überwachung ist Halbgefangenschaft ausgeschlossen.
+(6.4.) …

@@ -9,8 +9,8 @@ a) für den Nachweis der Erwerbstätigkeit oder Ausbildung:
 b) den Nachweis über eine dauerhafte Unterkunft;
 c) den Nachweis über einen Festnetzanschluss oder Mobilfunkempfang;
 d) die Zustimmung aller erwachsenen Personen im gleichen Haushalt;
-e) den Nachweis einer Privathaftpflichtversicherung.
-2 Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich einen Nachweis für ihr Aufenthaltsrecht in der Schweiz und die Berechtigung für eine Erwerbstätigkeit oder Ausbildung ein.
+e) …
+2 Personen mit ausländischer Staatsangehörigkeit reichen zusätzlich zu ihrem aufenthaltsrechtlichen Status die Berechtigung für die Ausübung einer Erwerbstätigkeit oder Ausbildung ein, wenn sich diese aus dem Aufenthaltstitel nicht eindeutig ergibt.
 3 Ist eine Bewilligung der elektronischen Überwachung grundsätzlich möglich, sorgt das Amt für Justizvollzug für eine Eignungsabklärung, mit der:
 a) die notwendigen Informationen standardisiert erhoben werden;
 b) weitere notwendige Unterlagen eingefordert werden;
