@@ -1,0 +1,229 @@
+Gesetzessammlung des Kantons St.Gallen
+215.15
+nGS 11–44
+Tarif
+der Schulgelder und Gebühren der staatlichen Mittelschulen1
+vom 6. Juli 1976 
+Die Regierung des Kantons St.Gallen
+erlässt
+in Anwendung von Art. 5 Abs. 2 des Mittelschulgesetzes vom 12. Juni 19802 
+als Tarif:3, 4
+1 
+Geändert durch VI. Nachtrag zum GeschR.
+2 
+sGS 215.1.
+3 
+Geändert durch VI. Nachtrag zum GeschR.
+4 
+nGS 11–44; nGS 22–7; nGS 27–65; nGS 30–93; nGS 33–36; nGS 39–109. In Vollzug ab Be-
+ginn des Schuljahres 1977/ 78. Geändert durch Nachtrag vom 27. September 1977, nGS 12–58; 
+II. Nachtrag vom 25. Oktober 1983, nGS 18–102; III. Nachtrag vom 21. Mai 1985, nGS 20–55; 
+IV. Nachtrag vom 20. Juni 1989, nGS 24–35; V. Nachtrag vom 11. August 1992, nGS 27–64; 
+VI. Nachtrag vom 30. August 1994, nGS 29–57; VII. Nachtrag vom 19. September 1995, nGS 
+30–92; Abschnitt II Ziff. 9 des VII. Nachtrags zur EDBO-MS vom 15. Januar 1996, nGS 31–31 
+(sGS 143.4); VIII. Nachtrag vom 12. Mai 1998, nGS 33–35; IX. Nachtrag vom 16. Mai 2000, 
+nGS 35–18; X. Nachtrag vom 24. Juni 2003, nGS 38–70; XI. Nachtrag vom 10. August 2004, 
+nGS 39–74; XII. Nachtrag vom 21. Juni 2005, nGS 40–57; XIII. Nachtrag vom 10. Januar 2006, 
+nGS 41–2; Abschnitt II Ziff. 13 des VI. Nachtrags zur GeschR vom 30. Oktober 2007, nGS 
+42–101 (sGS 141.3). Wird nicht mehr angewendet für die Pädagogische Hochschule des 
+Kantons St.Gallen; vgl. Art. 17 des Gebührentarifs der Pädagogischen Hochschule des Kan-
+tons St.Gallen, sGS 216.13; XIV. Nachtrag vom 22. November 2011, nGS 47–2; XV. Nachtrag 
+vom 29. Oktober 2013, nGS 2014-049; XVI. Nachtrag vom 6. Juni 2017, nGS 2017-034; 
+XVII. Nachtrag vom 23. Juni 2026, nGS 2026-025.
+215.15
+2 
+I. Schulgeld der Schülerinnen und Schüler mit stipendienrechtlichem Wohn- 
+sitz ausserhalb des Kantons St.Gallen5 
+Nr. 
+16 
+Schülerinnen und Schüler an den Kantonsschulen mit stipendien-
+ 
+rechtlichem Wohnsitz ausserhalb des Kantons St.Gallen bezah-
+ 
+len jährlich ein Schulgeld nach Art. 8 der Vereinbarung über die
+ 
+Leistung von Schulbeiträgen für Auszubildende an Schulen der
+ 
+Sekundarstufe II (Regionales Schulabkommen) vom 1. März
+ 
+20017 (Tarif «mit Aufnahmepflicht»).
+118 
+129 
+1310 
+1411 
+1512 
+1613 
+Ibis. Schulgeld der Schulgemeinden für den Besuch des Untergymnasiums 
+der Kantonsschule am Burggraben St.Gallen14 
+Nr. 
+Fr.
+1bis15 Schulgemeinden bezahlen für Schülerinnen und Schüler, die sich
+ 
+in ihrem Gebiet aufhalten und am 15. November bzw. 15. Mai das
+ 
+Untergymnasium der Kantonsschule am Burggraben St.Gallen
+ 
+besuchen, je Semester  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+9 450.–
+5 
+Geändert durch XVII. Nachtrag.
+6 
+Geändert durch XVII. Nachtrag.
+7 
+sGS 211.81. 
+8 
+Aufgehoben durch XII. Nachtrag.
+9 
+Aufgehoben durch VI. Nachtrag.
+10 
+Aufgehoben durch XII. Nachtrag.
+11 
+Aufgehoben durch XII. Nachtrag.
+12 
+Aufgehoben durch XI. Nachtrag.
+13 
+Aufgehoben durch XII. Nachtrag.
+14 
+Geändert durch IX. Nachtrag.
+15 
+Geändert durch XVII. Nachtrag.
+215.15
+3 
+II. Gebühren16 
+Nr. 
+Fr.
+2 
+Als Gebühr für die Anmeldung bezahlen: 
+2117  Kandidatinnen und Kandidaten der Kantonsschulen  . . . . . . . . .  
+300.–
+2218 
+22119 
+22220 
+2321 
+2422 
+2523 
+324 
+Als Gebühr für den freiwilligen Unterricht in Instrumentalmusik
+ 
+je Jahreswochenstunde bezahlen: 
+3125  Schülerinnen und Schüler der Mittelschulen . . . . . . . . . . . . . . . . .  
+1450.–
+3226  die oder der zweite und weitere Schülerinnen und Schüler einer
+ 
+Familie, auf Gesuch, je  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+1040.–
+3327 
+3428 
+4 bis 4429
+4bis30 Schülerinnen und Schüler der Mittelschulen bezahlen als Gebühr
+ 
+für Dienstleistungen je Jahr  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+300.–
+531 
+Schülerinnen und Schüler der Mittelschulen bezahlen als Gebühr
+ 
+für die Abschlussprüfung  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  
+300.–
+5132 
+5233 
+16 
+Geändert durch VI. Nachtrag zum GeschR.
+17 
+Geändert durch XVII. Nachtrag.
+18 
+Aufgehoben durch XII. Nachtrag.
+19 
+Aufgehoben durch XII. Nachtrag.
+20 
+Aufgehoben durch XII. Nachtrag.
+21 
+Aufgehoben durch XII. Nachtrag.
+22 
+Aufgehoben durch XI. Nachtrag.
+23 
+Aufgehoben durch VIII. Nachtrag.
+24 
+Geändert durch XIV. Nachtrag.
+25 
+Geändert durch XVII. Nachtrag.
+26 
+Geändert durch XVII. Nachtrag.
+27 
+Aufgehoben durch VI. Nachtrag zum GeschR.
+28 
+Aufgehoben durch VI. Nachtrag zum GeschR.
+29 
+Aufgehoben durch VI. Nachtrag zum GeschR.
+30 
+Geändert durch XVII. Nachtrag. 
+31 
+Geändert durch XVII. Nachtrag. 
+32 
+Aufgehoben durch XII. Nachtrag.
+33 
+Aufgehoben durch XII. Nachtrag.
+215.15
+4 
+III. Allgemeine Bestimmungen 
+ 
+1.34 Schülerinnen und Schüler, deren Eltern im Kanton St.Gallen gemäss Art. 7 
+des Steuergesetzes35 beschränkt steuerpflichtig sind, können am Ende des Schul-
+jahres eine teilweise Rückerstattung des Schulgeldes verlangen. 
+ 
+Diese richtet sich nach dem Verhältnis des auf den Kanton St.Gallen entfallen-
+den Anteils zur gesamten Einkommens- und Vermögenssteuer der Eltern. 
+ 
+Für die Berechnung ist die letzte rechtskräftige st.gallische Steuerveranlagung 
+massgebend. 
+ 
+Eine Rückerstattung ist ausgeschlossen, wenn der st.gallische Steueranteil weni-
+ger als 20 Prozent beträgt. 
+ 
+2.36 Das Bildungsdepartement ist ermächtigt, Schülerinnen und Schüler aus 
+Kantonen, die Gegenrecht halten, ganz oder teilweise vom Schulgeld zu befreien. 
+ 
+3.37 Die Rektorin oder der Rektor kann in Härtefällen auf Gesuch hin Schulgeld 
+und Gebühren ganz oder teilweise erlassen. 
+ 
+3bis.38 
+ 
+4. Die Schulgelder werden zur Hälfte jeweils auf Beginn eines Semesters im 
+­Voraus zur Zahlung fällig.
+ 
+5. Besondere Vereinbarungen der Regierung39 mit anderen Kantonen und Staa-
+ten bleiben vorbehalten.
+IV. Schlussbestimmungen 
+Der Tarif über die Schulgelder und Gebühren der Kantonsschulen, der Lehrerbil-
+dungsanstalten und der Verkehrsschule vom 2. September 197540 wird aufgehoben.
+…41 
+Schlussbestimmung des XII. Nachtrags vom 21. Juni 200542 
+II.
+Nr. 1 dieses Erlasses wird ab 1. August 2006 für Schüler angewendet, die im Schul-
+jahr 2006 / 07 eintreten. Die übrigen Bestimmungen werden ab 1. August 2005 an-
+gewendet. 
+34 
+Geändert durch XVII. Nachtrag.
+35 
+Aufgehoben, nGS 29–70 (sGS 811.1).
+36 
+Geändert durch XVII. Nachtrag.
+37 
+Geändert durch XVII. Nachtrag.
+38 
+Aufgehoben durch XII. Nachtrag. 
+39 
+Geändert durch VIII. Nachtrag. 
+40 
+nGS 10–71 (sGS 215.15). 
+41 
+Gegenstandslos infolge Zeitablaufs. 
+42 
+nGS 40–57.
+215.15
+5 
+Schlussbestimmung des XV. Nachtrags vom 29. Oktober 201343 
+II.
+Nr. 1 dieses Erlasses wird ab 1. August 2014 für Schüler angewendet, die im Schul-
+jahr 2014 / 15 eintreten. Nr. 1bis dieses Erlasses wird ab 1. August 2014 angewendet. 
+43 
+nGS 2014-049.
