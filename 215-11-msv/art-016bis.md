@@ -15,3 +15,5 @@ k) AHV-Versichertennummer;
 l) technischer Identifikator;
 m) Identitätsanbieter-Identifikation.
 3 Die Datenbekanntgabe kann im Abrufverfahren nach Art. 15 Abs. 1 des Datenschutzgesetzes vom 20. Januar 2009 erfolgen.
+(3.) III. Schülerinnen und Schüler
+(3.1.) 1. Allgemeine Bestimmungen
