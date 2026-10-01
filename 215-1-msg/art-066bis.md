@@ -1,3 +1,5 @@
 # Art. 66bis Mitwirkungspflicht und Ordnungsbusse
 1 Die Eltern nicht volljähriger Schülerinnen und Schüler stehen den Lehrpersonen und Schulleitungsmitgliedern für Gespräche und weitere Kontakte zur Verfügung. Sie informieren über die Schülerin oder den Schüler und die Familie, soweit es der Bildungsauftrag erfordert.
 2 Eltern nicht volljähriger Schülerinnen und Schüler, welche die Schülerin oder den Schüler nicht zum Unterrichtsbesuch anhalten, können auf Antrag der Rektorin oder des Rektors vom zuständigen Departement verwarnt oder gebüsst werden. Die Ordnungsbusse beträgt je versäumter Schulhalbtag wenigstens Fr. 200.–, insgesamt höchstens Fr. 1000.–.
+(6.) VI. Behörden
+(6.1.) 1. Regierung

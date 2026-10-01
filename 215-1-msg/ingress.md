@@ -6,3 +6,4 @@ hat von der Botschaft des Regierungsrates vom 11. September 1979 Kenntnis genomm
 erlässt
 in Anwendung von Art. 2, 9 und 10 der Kantonsverfassung vom 16. November 1890
 als Gesetz:
+(1.) I. Allgemeine Bestimmungen
