@@ -1,0 +1,11 @@
+{
+  "path": "ch-sg",
+  "code": "CH-SG",
+  "name": "St. Gallen",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-st-gallen-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (344 acts, 1092 versions) from the sGS",
+  "language": "de",
+  "sources": 1
+}
