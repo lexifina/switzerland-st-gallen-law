@@ -1,0 +1,16 @@
+{
+ "corpus": "ch/st-gallen/acts",
+ "path": "switzerland/st-gallen/acts",
+ "name": "St. Gallen cantonal legislation",
+ "language": "de",
+ "history": "in-force",
+ "scope": "selected-acts",
+ "acts": 731,
+ "history_from": "1847-03-11",
+ "record_to": "2026-11-05",
+ "checked_on": "2026-11-05",
+ "in_force_trailer": "In-force",
+ "future_branch": "zukunft",
+ "publisher": "Kanton St.Gallen, sGS",
+ "record_note": "344 acts retain dated histories; 387 additions contain current text only. Graphical supplements and the original separately published annexes remain outstanding."
+}

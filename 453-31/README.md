@@ -1,6 +1,6 @@
 # Verordnung zur Bundesgesetzgebung über die Ausweise für Schweizer Staatsangehörige
 
-sGS 453.31 · 3 versions, from 2011-08-16 (latest in force: 2014-01-01) · <https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/453.31>
+sGS 453.31 · 3 versions, from 2011-08-16 (latest in force: 2026-11-01) · <https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/453.31>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
