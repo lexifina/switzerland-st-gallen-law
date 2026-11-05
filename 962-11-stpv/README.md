@@ -4,6 +4,7 @@ StPV · 10 versions, from 2013-01-01 (latest in force: 2026-05-01) · <https://w
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Anhang: Ordnungsbussen | [annexes.md](annexes.md) | 1 | 2026-05-01 |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2023-01-01 |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 2 | 2026-05-01 |

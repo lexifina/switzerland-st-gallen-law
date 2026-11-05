@@ -747,7 +747,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `963-73` | Prüfungs- und Bewilligungsreglement für Rechtsanwältinnen und Rechtsanwälte sowie Rechtsagentinnen und Rechtsagenten | 1 | 2026-07-01 to 2026-07-01 |
 | `963-75` | Honorarordnung | 1 | 2019-01-01 to 2019-01-01 |
 
-The build made 1345 commits:
+The build made 1346 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -771,7 +771,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `3bed38b0190f932c275dc19a2e4a1d5ec8c4409bf4283df05d43952888ad0e0d` (12951850 bytes).
+- Corpus: sha256 `7b9866eb9b6ae526cb43e7d11629b66d3a602569edcb65164f75993776ccde06` (13099245 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -779,7 +779,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 1334 history commits and 2293 tags (history tip `1d2b025fda281174bc55e91a6af37d1beab86ed9`).
 
 ## Decisions made by hand
 
@@ -792,6 +792,8 @@ No second build of this corpus has been compared yet.
 - The current in-force date is copied from each official current-version label; no retrieval day substitutes for a stated source date.
 - These additions are single-file acts retaining the full official text, including section headings, operative tables and source notes; separately published textual annexes are retained together in an annexes file.
 - Normative graphical figures in the additional acts are outside this textual record pending a separate image supplement.
+- The separate Ordnungsbussen annex of sGS 962.11, version 3893, is restored from the official selectable-text PDF; the publisher dates the version in force from 01.05.2026.
+- The annex PDF has six pages of extractable text, no embedded images, and 70 numbered superscript footnote spans represented as bracketed note numbers to keep them separate from legal identifiers; only nonprinting PDF control characters were removed.
 
 ## What AI did and did not do
 
@@ -804,3 +806,4 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
 - GPT-6 wrote parsing and validation code and assessed scope; it wrote no legal text and performed no OCR.
+- A model identified the omitted annex and arranged the correction; annex words and numbered footnote markers come from the official PDF text spans.

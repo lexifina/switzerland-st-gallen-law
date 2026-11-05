@@ -780,6 +780,12 @@
     "963-75"
    ],
    "sha256": "bfeb830f203af1cbfec378198d35cd742a652ebdeecb6af74fe29d4b8568a0c2"
+  },
+  "61-annex-962-11.json": {
+   "acts": [
+    "962-11-stpv"
+   ],
+   "sha256": "741c736d315596ff2da71d6f4c3770198ab0e71fcaa760777564fc3556c34980"
   }
  },
  "schema": 1
