@@ -1,5 +1,7 @@
 # St. Gallen: law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of St. Gallen, Switzerland, which global-law reads at `switzerland/st-gallen/acts/`.
+
 The German-language official law of the canton of St.Gallen, Switzerland, from the cantonal systematic collection (sGS).
 
 ## What this repository holds
