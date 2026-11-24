@@ -1,0 +1,97 @@
+{
+ "generated": "2026-11-24T12:34:49Z",
+ "latest": {
+  "lexwork-st-gallen|switzerland/st-gallen/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "the collection's PDF of the act's current version (its pdf_link, a second rendering of the same text), its words against the words of the version held here (97% or more found = agrees)",
+    "sampled": 5,
+    "unreadable": 0
+   },
+   "census": {
+    "checked": 105,
+    "current": 728,
+    "gone": 0,
+    "held": 731,
+    "not_at_source": 0,
+    "out_of_scope": 0,
+    "pending": 3,
+    "repo": 731,
+    "source_in_scope": 731
+   },
+   "check_id": "ch-lexwork-st-gallen-20261124T122352Z",
+   "commits": null,
+   "corpus": "switzerland/st-gallen/acts",
+   "error": null,
+   "finished": "2026-11-24T12:34:48Z",
+   "flags": [
+    {
+     "detail": "9 of 235 texts differ from the source",
+     "flag": "verify-differ"
+    }
+   ],
+   "gap": 4,
+   "note": "www.gesetzessammlung.sg.ch: index of 731 acts (731 in force); held 731; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 105 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "changed",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 405,
+   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [
+     "141.41",
+     "145.1",
+     "145.2"
+    ],
+    "removed": []
+   },
+   "snapshot": "731 entries, 731 in force (www.gesetzessammlung.sg.ch)",
+   "source": "lexwork-st-gallen",
+   "started": "2026-11-24T12:23:52Z",
+   "unexplained": 0,
+   "update": {
+    "left_for_next_check": 0,
+    "letters_check_dropped": {},
+    "new": 0,
+    "nothing_new": 3,
+    "parts": [],
+    "pdf_only": 0,
+    "re_read": 0,
+    "unreadable": 0
+   },
+   "verify": {
+    "cycle_days": 7,
+    "examples": [
+     "125.1 (125-1-rig): 2023-06-01",
+     "131.11 (131-11-geschkr): 2016-06-01, 2020-06-01, 2023-07-01, 2025-01-01",
+     "140.1 (140-1-stvg): 2016-06-01, 2019-01-01",
+     "141.3 (141-3-geschr): 2018-01-01, 2021-01-01, 2025-01-01",
+     "141.41 (141-41-delv): 2026-01-01",
+     "142.3 (142-3-e-govg): 2019-01-01",
+     "143.11 (143-11-persv): 2014-01-01, 2019-01-01, 2020-01-01, 2021-01-01",
+     "151.2 (151-2-gg): 2019-01-01, 2023-06-01, 2025-10-01"
+    ],
+    "held": 731,
+    "method": "each act compared this check (105 of 731: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from www.gesetzessammlung.sg.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {
+     "60-verify-491.json": 46
+    },
+    "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
+    "ok": false,
+    "swept": 105,
+    "versions_checked": 235,
+    "versions_differ": 9
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
