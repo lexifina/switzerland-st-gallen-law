@@ -21,6 +21,7 @@
     "switzerland/st-gallen/acts"
    ],
    "interval": 1.0,
+   "group": "lexwork",
    "repo": "switzerland-st-gallen-law"
   }
  ]
