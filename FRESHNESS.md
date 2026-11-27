@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### St Gallen: Systematische Sammlung (www.gesetzessammlung.sg.ch) · `switzerland/st-gallen/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 06:51 UTC**.
-- Vorschriften hier: 731; aktuell gegenüber der Quelle: 731; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 118 der 731 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
-- Nicht veröffentlicht: 5 (tritt später in Kraft: 5); ohne Grund: 0.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-27 06:49 UTC**.
+- Vorschriften hier: 731; aktuell gegenüber der Quelle: 730; an der Quelle geändert seit der Fassung hier: 1; nicht mehr an der Quelle: 0.
+- In diesem Lesen mit der Quelle verglichen: 125 der 731 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Nicht veröffentlicht: 4 (an der Quelle geändert seit der Fassung hier: 1, tritt später in Kraft: 3); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).

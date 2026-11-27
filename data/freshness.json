@@ -1,15 +1,15 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-26",
+ "as_of": "2026-11-27",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": "2026-11-26",
+ "checked_against_official_source": "2026-11-27",
  "totals": {
   "acts": 731,
   "by_status": {
-   "current": 118,
-   "pending-change": 0,
+   "current": 124,
+   "pending-change": 1,
    "stale": 0,
-   "unverified": 613,
+   "unverified": 606,
    "source-unavailable": 0
   }
  },
@@ -18,8 +18,8 @@
    "source": "lexwork-st-gallen",
    "name": "St Gallen: systematic collection (www.gesetzessammlung.sg.ch)",
    "state": "available",
-   "last_successful_check": "2026-11-26",
-   "last_successful_contact": "2026-11-26"
+   "last_successful_check": "2026-11-27",
+   "last_successful_contact": "2026-11-27"
   }
  ]
 }
