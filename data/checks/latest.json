@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:14:17Z",
+ "generated": "2026-11-28T09:11:21Z",
  "latest": {
   "lexwork-st-gallen|switzerland/st-gallen/acts": {
-   "attempt": 1,
+   "attempt": 4,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -13,48 +13,46 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 125,
-    "current": 730,
+    "checked": 126,
+    "current": 731,
     "gone": 0,
     "held": 731,
     "not_at_source": 0,
     "out_of_scope": 0,
-    "pending": 1,
+    "pending": 0,
     "repo": 731,
     "source_in_scope": 731
    },
-   "check_id": "ch-lexwork-st-gallen-20261127T064506Z",
+   "check_id": "ch-lexwork-st-gallen-20261128T090605Z",
    "commits": null,
    "corpus": "switzerland/st-gallen/acts",
    "error": null,
-   "finished": "2026-11-27T06:49:20Z",
+   "finished": "2026-11-28T09:11:19Z",
    "flags": [
     {
-     "detail": "21 of 323 texts differ from the source",
+     "detail": "24 of 328 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 4,
-   "note": "www.gesetzessammlung.sg.ch: index of 731 acts (731 in force); held 731; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 125 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "changed",
+   "gap": 6,
+   "note": "www.gesetzessammlung.sg.ch: index of 731 acts (731 in force); held 731; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 126 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 234,
+   "requests": 293,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "551.1"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "731 entries, 731 in force (www.gesetzessammlung.sg.ch)",
    "source": "lexwork-st-gallen",
-   "started": "2026-11-27T06:45:06Z",
+   "started": "2026-11-28T09:06:05Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -69,25 +67,25 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
+     "811.1 (811-1-stg): 2016-01-01, 2019-01-01, 2020-01-01, 2021-01-01",
+     "811.11 (811-11-stv): 2019-01-01",
+     "813.1 (813-1-fag): 2013-01-01, 2019-01-01",
      "451.11 (451-11-pv): 2019-10-01",
      "313.2 (313-2): 2020-10-31, 2021-01-18",
      "331.2 (331-2-pfg): 2014-01-01, 2021-01-01",
      "331.11 (331-11-eg-kvg): 2021-01-01",
-     "331.21 (331-21): 2023-01-01, 2025-01-01",
-     "331.111 (331-111): 2014-01-01, 2017-01-01, 2018-01-01, 2023-01-01",
-     "351.5 (351-5-elg): 2021-01-01",
-     "381.1 (381-1-shg): 2014-01-01, 2025-01-01, 2026-01-01"
+     "331.21 (331-21): 2023-01-01, 2025-01-01"
     ],
     "held": 731,
-    "method": "each act compared this check (125 of 731: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from www.gesetzessammlung.sg.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (126 of 731: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from www.gesetzessammlung.sg.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {
-     "60-verify-491.json": 47
+     "60-verify-491.json": 67
     },
     "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": false,
-    "swept": 125,
-    "versions_checked": 323,
-    "versions_differ": 21
+    "swept": 126,
+    "versions_checked": 328,
+    "versions_differ": 24
    }
   }
  },
